@@ -1,0 +1,214 @@
+body{
+	-webkit-font-smoothing: antialiased;
+}
+.headline{
+	margin-top:3em;
+	width:100%;
+	text-align:center;
+	z-index:3;
+	font-family:"FarnhamDisplayLight", Georgia, serif;
+
+	h1{
+		margin:0 0 0.2em;
+    line-height:1.2;
+    @media @mobile{
+      font-size:1.57em;
+    }
+	}
+
+  @media @mobile{
+    margin-top:2.5em;
+  }
+}
+
+.container{
+  padding:0 1em;
+}
+.brand{
+  font-family: "Dispatch";
+  font-weight: normal;
+  margin-bottom: 0;
+  margin-top: 0;
+  font-size: 0.8em;
+  text-align: center;
+  color: #ec1c24;
+  text-transform:uppercase;
+
+  a{
+    color: #ec1c24;
+  }
+
+  @media @mobile{
+    font-size:0.7em;
+  }
+
+}
+
+.deck{
+	font-family: FarnhamText;
+  line-height: 1.4;
+  font-size: 19px;
+  max-width: 800px;
+  padding:0;
+
+  @media @mobile{
+    font-size:15px;
+  }
+}
+
+#btn-group{
+	max-width: 300px;
+	margin:0 auto;
+	text-align:center;
+}
+
+
+.btn {
+  -webkit-border-radius: 4;
+  -moz-border-radius: 4;
+  border-radius: 4px;
+  color: #ffffff;
+  font-size: 16px;
+  background: #d93434;
+  padding: 10px 20px;
+  text-decoration: none;
+  border:none;
+  cursor:pointer;
+
+  &:focus{
+  	outline:none;
+  }
+
+  &.disabled{
+  	cursor:default;
+  	background:#d46767;
+
+  	&:hover{
+  	background:#d46767;
+  	}
+
+  }
+}
+
+#btn-sort{
+  text-align: center;
+  margin-top: 2em;
+}
+
+.small-btn {
+  -webkit-border-radius: 4;
+  -moz-border-radius: 4;
+  border-radius: 4px;
+  color: #ffffff;
+  font-size: 14px;
+  background: #d93434;
+  padding: 5px 20px;
+  text-decoration: none;
+  border:none;
+  cursor:pointer;
+
+  &:focus{
+    outline:none;
+  }
+
+  &.disabled{
+    cursor:default;
+    background:#d46767;
+
+    &:hover{
+    background:#d46767;
+    }
+
+  }
+}
+.btn:hover, .small-btn:hover {
+  background: #fc1919;
+  text-decoration: none;
+}
+
+table.dataTable.display tbody tr.even {
+    background-color: #f9f9f9;
+}
+
+#donate-table{
+	display:none;
+}
+
+#donate_length{
+	display:none;
+}
+
+#volunteer_length{
+	display:none;
+}
+
+table.dataTable thead th, table.dataTable thead td {
+    border-bottom: none;
+}
+
+.table-wrapper{
+	max-width: 900px;
+	margin: 0 auto;
+  width:100%;
+}
+
+.dataTables_scrollBody{
+  border-top:1px solid #333;
+}
+
+td[tabindex='0'] {
+  color: #ec1c24;
+  font-family:@med-graphics;
+
+  @media @mobile{
+   font-size:0.9em;
+  }
+}
+.child{
+  font-family:@med-graphics;
+  font-size:0.85em;
+  width:100%;
+
+  @media @mobile{
+    padding: 10px 0 !important;
+    font-size:0.7em;
+  }
+}
+
+#btn-sort{
+  font-family: antennaregular;
+    font-size: 0.9em;
+}
+
+#volunteer_filter, #donate_filter{
+  font-family: antennaregular;
+    font-size: 0.9em;
+    margin-top:0.5em;
+}
+
+.dataTables_info, .dataTables_paginate.paging_simple_numbers{
+  font-size:0.7em;
+  font-family:@med-graphics;
+}
+
+.dataTables_wrapper .dataTables_paginate .paginate_button:hover{
+  background: -webkit-linear-gradient(top, #d93434 0%, #b32d2d 100%);
+  background: -moz-linear-gradient(top, #d93434 0%, #b32d2d 100%);
+  background: -ms-linear-gradient(top, #d93434 0%, #b32d2d 100%);
+  background: -o-linear-gradient(top, #d93434 0%, #b32d2d 100%);
+  background: linear-gradient(to bottom, #d93434 0%, #b32d2d 100%);
+}
+
+.dataTables_wrapper .dataTables_filter {
+  float: none;
+  text-align: center;
+}
+
+.logo-link{
+  margin:0;
+  padding:5px 10px 0 7px;
+}
+.link{
+  padding:0;
+  vertical-align:5px;
+}

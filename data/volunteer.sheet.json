@@ -1,0 +1,757 @@
+[
+  {
+    "organization": "A Home Away From Homelessness",
+    "location": "SF",
+    "description": "A shelter and transitional housing program.",
+    "website": "http://www.homeaway.org/get-involved/volunteer",
+    "volunteer": "weekly tutors, bimonthly volunteers to serve as companions, and as-needed volunteers to run creative fundraising projects",
+    "address": "Fort Mason, Building 33",
+    "email": "admin@homeaway.org",
+    "phone": "(415) 561-5533",
+    "other": "Fill out an online application via their website."
+  },
+  {
+    "organization": "CalFresh",
+    "location": "SF",
+    "description": "This nutrition-assistance programs helps families and individuals purchase food.",
+    "website": "http://www.sfmfoodbank.org/volunteer-opportunities",
+    "volunteer": "Assist city residents in applying for CalFresh benefits, help with outreach and prescreen community members, make follow-up calls and log data.",
+    "email": "dpolka@sfmfoodbank.org",
+    "phone": "(415) 282-1907 Ext. 375"
+  },
+  {
+    "organization": "Children of Shelters",
+    "location": "SF",
+    "description": "This group offers unique educational opportunities, cultural experiences and enrichment activities.",
+    "website": "http://www.childrenofshelters.org",
+    "volunteer": "Volunteers needed at shelters and holiday fundraising events.",
+    "address": "2269 Chestnut St., Box 439",
+    "email": "volunteer@childrenofshelters.org",
+    "phone": "(925) 935-9938"
+  },
+  {
+    "organization": "Compass Family Services",
+    "location": "SF",
+    "description": "Compass helps families facing homelessness transition from crisis to economic stability.",
+    "website": "http://www.compass-sf.org",
+    "volunteer": "Play with kids, tutor adults or children, teach (nutrition, finances, etc.), mentor an adult, organize office space, strategize and create content for social media.",
+    "address": "49 Powell St., 3rd Floor, S.F.",
+    "email": "jheck@compass-sf.org",
+    "phone": "(415) 644-0504, Ext.1103",
+    "other": "Fill out an online form via their website and email jheck@compass-sf.org."
+  },
+  {
+    "organization": "Delivering Innovation in Supportive Housing (DISH)",
+    "location": "SF",
+    "description": "This organization provides permanent housing to people suffering serious health issues.",
+    "website": "http://www.dishsf.org",
+    "volunteer": "fund development, marketing or social media strategy, painting projects, sidewalk gardening, Tenant Appreciation, Party Health &amp; Wellness Fair, DISH Anniversary Bash",
+    "address": "232 Eddy St.",
+    "email": "arielfortune@dishsf.org",
+    "phone": "(415) 776-3474 Ext. 102",
+    "other": "Complete an online form via their website"
+  },
+  {
+    "organization": "Dolores Street Community Services",
+    "location": "SF",
+    "description": "This group serves the Mission and Castro neighborhoods with a variety of programs, including shelter, housing and immigration services.",
+    "website": "http://www.dscs.org",
+    "volunteer": "Shelter volunteers are needed every day from 6:30 p.m. to 10 p.m. They need help serving food, distributing linens, and working bingo nights.",
+    "address": "938 Valencia St., San Francisco",
+    "email": "info@dscs.org",
+    "phone": "(415) 282-6209"
+  },
+  {
+    "organization": "Episcopal Community Services San Francisco",
+    "location": "SF",
+    "description": "This group operates a shelter and also offers permanent housing in addition to job training, adult education and senior services.",
+    "website": "http://www.ecs-sf.org",
+    "volunteer": "Volunteers are needed to serve breakfast or dinner at shelters, tutor adult GED students, or assist senior citizens.",
+    "address": "165 Eighth St., 3rd Floor",
+    "email": "fphillips@ecs-sf.org",
+    "phone": "(415) 487-3300"
+  },
+  {
+    "organization": "Eviction Defense Collaborative",
+    "location": "SF",
+    "description": "This group provides emergency rental assistance and helps tenants respond to unlawful detainer lawsuits.",
+    "website": "http://www.evictiondefense.org",
+    "volunteer": "Volunteers needed to assist people facing homelessness at their legal clinic and on rental assistance teams.",
+    "address": "1338 Mission St., 4th Floor",
+    "email": "volunteer@evictiondefense.org",
+    "phone": "(415) 947-0797"
+  },
+  {
+    "organization": "Food Runners",
+    "location": "SF",
+    "description": "Excess food is given to those with too little, thanks to this organization.",
+    "website": "http://www.foodrunners.org",
+    "volunteer": "http://www.foodrunners.org/donate-time",
+    "other": "They need regular and on-call runners to pick up food from donors and take it to recipients."
+  },
+  {
+    "organization": "Glide Memorial Church",
+    "location": "SF",
+    "description": "The church operates an array of services in the Tenderloin neighborhood.",
+    "website": "http://www.glide.org",
+    "volunteer": "Serve meals in the daily free meals program, work with children, get involved in the HIV services center, help the fundraising or finance office, help at their Sunday celebrations and assist with special events.",
+    "address": "330 Ellis St.",
+    "email": "volteam@glide.org",
+    "phone": "(415) 674-6000",
+    "other": "Email volteam@glide.org about opportunities in the meal program, and submit your resume and cover letter to LSmall@glide.org about long-term opportunities."
+  },
+  {
+    "organization": "Haight Ashbury Food Program",
+    "location": "SF",
+    "description": "This group provides meals and referral services.",
+    "website": "http://www.thefoodprogram.org",
+    "volunteer": "Volunteers assist with food pantry operations every Saturday, as well as small projects.",
+    "address": "P.O. Box 170202, CA 94117 (mailing), 1525 Waller St., San Francisco",
+    "email": "hafppantry@gmail.com"
+  },
+  {
+    "organization": "Hamilton Families",
+    "location": "SF",
+    "description": "This nonprofit operates a shelter and provides services to families in Oakland and San Francisco.",
+    "website": "http://www.hamiltonfamilies.org",
+    "volunteer": "a variety of opportunities, such as working with children in the digital learning center. Please email for the best fit.",
+    "address": "1631 Hayes St",
+    "email": "volunteer@hamiltonfamilies.org",
+    "phone": "(415) 409-2100"
+  },
+  {
+    "organization": "HealthRIGHT 360",
+    "location": "SF",
+    "description": "This group provides medical, mental and substance abuse treatment.",
+    "website": "http://www.healthright360.org",
+    "volunteer": "seeking volunteers for administrative work",
+    "email": "volunteer@healthright360.org",
+    "phone": "(415) 762-3700"
+  },
+  {
+    "organization": "Homeless Advocacy Project (HAP) of the Justice &amp; Diversity Center of BASF",
+    "location": "SF",
+    "description": "This group provides legal services to San Franciscans who are homeless or at risk of losing their housing. It prioritizes people with mental health disabilities.",
+    "website": "http://www.sfbar.org/jdc/legal-services/hap",
+    "volunteer": "attorneys, legal professionals, social service professionals, and legal and social work student interns needed",
+    "address": "125 Hyde St., San Francisco, CA 94102",
+    "email": "gchun@sfbar.org",
+    "phone": "(415) 575-3130",
+    "other": "Legal interns should email ekatayama@sfbar.org, social work interns should email jrosenthal@sfbar.org, and attorneys or social work professionals can inquire about volunteer opportunities by contacting gchun@sfbar.org or kdanielson@sfbar.org."
+  },
+  {
+    "organization": "Homeless Children's Network",
+    "location": "SF",
+    "description": "HCN reduces the trauma of homelessness and domestic violence by providing mental health consultations and treatment. It also operates a resource center that offers training sessions on subjects such as parenting skills.",
+    "website": "http://www.hcnkids.org",
+    "volunteer": "Please call about volunteer opportunities.",
+    "address": "3450 Third St., Building 1, Unit 1C",
+    "email": "admin@hcnkids.org",
+    "phone": "(415) 437-3990"
+  },
+  {
+    "organization": "Homeless Prenatal Program",
+    "location": "SF",
+    "description": "This program targets the cycle of poverty through its family resource center, which helps women have healthy babies as well as build families that are both economically stable and nurturing.",
+    "website": "http://www.homelessprenatal.org",
+    "volunteer": "They need help in their community technology center, wellness center, low-income tax clinic, as well as with donations and administrative work.",
+    "address": "2500 18th St., San Francisco",
+    "email": "info@homelessprenatal.org",
+    "phone": "(415) 546-6756",
+    "other": "Fill out a volunteer interest form via their website, or call Sharon at (415) 546-6756 Ext. 381"
+  },
+  {
+    "organization": "La Casa de las Madres",
+    "location": "SF",
+    "description": "This group provides temporary shelter to women and children who are at risk of or have been exposed to abuse.",
+    "website": "http://www.lacasa.org",
+    "volunteer": "They need help supervising children, community outreach and education, crisis line counseling, drop-in center assistance, instructors for various activities (yoga, creative writing, etc.), interpretation, marketing and more.",
+    "address": "1663 Mission St., Ste. 225, San Francisco",
+    "email": "info@lacasa.org"
+  },
+  {
+    "organization": "Larkin Street Youth Services",
+    "location": "SF",
+    "description": "Larkin Street gives homeless people ages 12 to 24 a safe place to live and the help they need to rebuild their lives.",
+    "website": "http://www.larkinstreetyouth.org",
+    "volunteer": "various long-term and short-term opportunities available",
+    "address": "134 Golden Gate Ave., San Francisco",
+    "email": "volunteer@larkinstreetyouth.org",
+    "phone": "(415) 673-0911"
+  },
+  {
+    "organization": "La Voz Latina",
+    "location": "SF",
+    "description": "Operating under the umbrella of the Tenderloin Housing Clinic, this group targets the Tenderloin's Latino population.",
+    "website": "http://www.facebook.com/LaVozLatinaTenderloinSF",
+    "volunteer": "Macaulay Park event setup and activities, outreach efforts, clerical duties",
+    "address": "456 Ellis St., San Francisco",
+    "email": "enrique@thclinic.org",
+    "phone": "(415) 983-3970"
+  },
+  {
+    "organization": "Mercy Housing California",
+    "location": "SF",
+    "description": "This provider of low-income housing programs targets families, seniors and people with special needs.",
+    "website": "http://www.mercyhousing.org/california",
+    "volunteer": "Mercy needs volunteers during regular business hours. They need help with landscaping, cleaning, community gardening, teaching classes, tutoring, serving as tech support in computer labs, hosting community meals, holiday parties, birthday parties, and administrative and event support.",
+    "email": "rkornblum@mercyhousing.org ",
+    "phone": "(916) 330-3356"
+  },
+  {
+    "organization": "Project Homeless Connect",
+    "location": "SF",
+    "description": "PHC connects homeless people with services by hosting large-scale events five times a year in addition to offering one-on-one services. They provide services such as medical, dental and vision care, employment counseling, housing assistance and legal aid.",
+    "website": "http://www.projecthomelessconnect.org",
+    "volunteer": "food bank, cafe, check-in, check-out, and other opportunities at their service events",
+    "address": "25 Van Ness Ave., Ste. 340",
+    "email": "volunteer@projecthomelessconnect.org",
+    "phone": "(415) 503-2124"
+  },
+  {
+    "organization": "Raphael House",
+    "location": "SF",
+    "description": "This nonprofit provides shelter and long-term assistance for at-risk families.",
+    "website": "http://www.raphaelhouse.org",
+    "volunteer": "kitchen, shelter upkeep projects, holiday and special events, tutoring club, children's program, and career development program",
+    "address": "1065 Sutter St.",
+    "email": "ksarver@raphaelhouse.org",
+    "phone": "(415) 345-7200",
+    "other": "Fill out their online application, and email ksarver@raphaelhouse.org."
+  },
+  {
+    "organization": "SF-Marin Food Bank",
+    "location": "SF",
+    "description": "The food bank aims to end hunger throughout its two-county area.",
+    "website": "http://www.sfmfoodbank.org",
+    "volunteer": "Help repackage bulk food into family-size quantities, assemble grocery boxes and sort food.",
+    "address": "900 Pennsylvania Ave., San Francisco, or 75 Digital Drive, Novato",
+    "email": "cjang@sfmfoodbank.org",
+    "phone": "(415) 282-1900 Ext. 316"
+  },
+  {
+    "organization": "St. Anthony Foundation",
+    "location": "SF",
+    "description": "St. Anthony's aids people in poverty through many programs, including a food kitchen, addiction services and more.",
+    "website": "http://www.stanthonysf.org",
+    "volunteer": "Dining Room, free clothing program, technology lab, medical clinic, social work center, operations, Young Professionals Council",
+    "address": "150 Golden Gate Ave., San Francisco",
+    "email": "info@stanthonysf.org",
+    "phone": "(415) 592-2600",
+    "other": "Create a volunteer account via their website or email ACahalan@stanthonysf.org"
+  },
+  {
+    "organization": "Martin de Porres House of Hospitality",
+    "location": "SF",
+    "description": "This free restaurant serves breakfast and lunch during the week, plus brunch on Sundays.",
+    "website": "http://www.martindeporres.org",
+    "volunteer": "Help in their kitchen any day.",
+    "address": "225 Potrero Ave.",
+    "email": "info@martindeporres",
+    "phone": "(415) 552-0240"
+  },
+  {
+    "organization": "St. Vincent de Paul Society of San Francisco",
+    "location": "SF",
+    "description": "This group offers shelter, food and support to people in need.",
+    "website": "http://www.svdp-sf.org",
+    "volunteer": "breakfast and dinner shifts, folding clean sheets and linens, computer lab assistance, and the Emergency HotLine (advance training required)",
+    "address": "1237 Van Ness Ave., Ste. 200, San Francisco",
+    "email": "lbenedith@svdp-sf.org",
+    "phone": "(415) 977-1270"
+  },
+  {
+    "organization": "Swords to Plowshares",
+    "location": "SF",
+    "description": "This group helps build self-sufficiency to all veterans in need, particularly those who are homeless or living in poverty.",
+    "website": "http://www.swords-to-plowshares.org",
+    "volunteer": "various opportunities available",
+    "address": "1060 Howard St., San Francisco; 2719 Telegraph Ave., Oakland",
+    "email": "volunteers@stp-sf.org",
+    "phone": "(415) 252-4788, (510) 844-7500"
+  },
+  {
+    "organization": "Tenderloin Neighborhood Development Corp.",
+    "location": "SF",
+    "description": "TNDC provides housing and services to low-income residents.",
+    "website": "http://www.tndc.org",
+    "volunteer": "Office assistant positions available, tutor and inspire youth at the Tenderloin After-School Program, harvest local produce from the community garden.",
+    "address": "201 Eddy St.",
+    "email": "hcaldwell@tndc.org ",
+    "phone": "(415) 776-2151",
+    "other": "email dobrero@tndc.org about the after-school program; email hcaldwell@tndc.org about the community garden and office assistant positions"
+  },
+  {
+    "organization": "The Gubbio Project",
+    "location": "SF",
+    "description": "These churches provide resting spots for those in need of shelter",
+    "website": "http://www.thegubbioproject.org",
+    "volunteer": "Assist unhoused guests during the day as they rest in beds, cook and serve breakfast, eat with guests, and volunteer on their development and events committee.",
+    "address": "St. Boniface Church, 133 Golden Gate Ave., and St. John the Evangelist 1661 15th St.",
+    "email": "lauras@thegubbioproject.org",
+    "phone": "(415) 861-5848"
+  },
+  {
+    "organization": "Ambassadors of Hope and Opportunity",
+    "location": "NB",
+    "description": "This youth-led program helps homeless teens and young adults.",
+    "website": "http://www.ahoproject.org",
+    "volunteer": "Book speaking engagements with high school leadership classes, spearhead a coalition of faith communities that invest in and adopt AHO, offer a room in your home for a youth who needs transitional housing, offer your professional services pro bono, volunteer at events and fundraisers.",
+    "address": "P.O. Box 2278, Mill Valley",
+    "email": "zarab@comcast.net",
+    "phone": "(415) 381-7173",
+    "other": "Submit a message via their website, call, or email zarab@comcast.net"
+  },
+  {
+    "organization": "Community Action North Bay",
+    "location": "NB",
+    "description": "CAN-B provides housing, food, clothing, case management, money management and other training.",
+    "website": "http://www.canbinc.org",
+    "volunteer": "Help with inventory, sorting and bagging food on Tuesday and Wednesday mornings, provide social support to housing clients, and help with clerical and bookkeeping duties.",
+    "address": "416 Union Ave., Fairfield",
+    "email": "info@canbinc.org",
+    "phone": "(707) 427-1148 Ext.112",
+    "other": "Complete a volunteer application form on the website, email keetra@canbinc.org about the food program, lisa@canbinc.org about the mentoring program, and heather@canbinc.org about the payee services"
+  },
+  {
+    "organization": "Committee on the Shelterless",
+    "location": "NB",
+    "description": "COTS offers comprehensive services in hopes of breaking the cycle of homelessness.",
+    "website": "http://www.cots-homeless.org",
+    "volunteer": "Prep and serve a meal, interact with children, pack and deliver food boxes, mentor adults and more.",
+    "address": "900 Hopper St., Petaluma",
+    "email": "volunteers@cots-homeless.org",
+    "phone": "(707) 765-6530 Ext. 111"
+  },
+  {
+    "organization": "Homeward Bound of Marin",
+    "location": "NB",
+    "description": "This shelter program serves Marin County.",
+    "website": "http://www.hbofm.org",
+    "volunteer": "They offer a range of volunteer opportunities, from making dinner at a homeless shelter to packaging products.",
+    "address": "1385 N. Hamilton Parkway, Novato",
+    "email": "volunteer@hbofm.org",
+    "phone": "(415) 382-3363 Ext. 212"
+  },
+  {
+    "organization": "Ritter Center",
+    "location": "NB",
+    "description": "This nonprofit provides health and social services to individuals and families in Marin County.",
+    "website": "http://www.rittercenter.org",
+    "volunteer": "Work directly with clients, fundraising opportunities, outreach, graphic design and general admin tasks.",
+    "phone": "(415) 457-8182 Ext. 109"
+  },
+  {
+    "organization": "Social Advocates for Youth",
+    "location": "NB",
+    "description": "Sonoma County's at-risk youth are the focus of this group, which offers short-term, emergency and affordable housing as well as counseling and career-readiness programs.",
+    "website": "http://www.saysc.org",
+    "volunteer": "They need volunteers at their shelter, skills-based volunteers, and help with group service projects",
+    "address": "2447 Summerfield Road, Santa Rosa, (707) 544-3299 (admin), 1243 Ripley St., Santa Rosa (Dr. Coffee Teen Shelter)",
+    "email": "stephanie@saysc.org",
+    "phone": "(707) 800-3967"
+  },
+  {
+    "organization": "The Living Room",
+    "location": "NB",
+    "description": "This group gives women and children a place to rest during the day when shelters are closed.",
+    "website": "http://www.thelivingroomsc.org",
+    "volunteer": "Serve breakfast and/or lunch, sort donations, assist program staff, interact with women and their children, distribute hygiene items and other essentials.",
+    "address": "1207 Cleveland Ave., Santa Rosa",
+    "email": "info@thelivingroomsc.org",
+    "phone": "(707) 579-0138 Ext. 0",
+    "other": "Complete an application form and agreement from their website"
+  },
+  {
+    "organization": "Abode Services/Housing First",
+    "location": "EB",
+    "description": "This group focuses on providing permanent housing in Santa Clara, Alameda, Santa Cruz and San Mateo counties.",
+    "website": "http://www.abodeservices.org",
+    "volunteer": "Serve on committees and their Board of Directors, prepare and serve meals, tutor and lead children's activities, help sort and store donated items, perform light cleaning and maintenance, provide office and front desk support, help during the holidays and special events, and more",
+    "address": "40849 Fremont Blvd., Fremont",
+    "phone": "(510) 657-7409",
+    "other": "Fill out online form at http://http://www.abodeservices.org/support_us/volunteers"
+  },
+  {
+    "organization": "Alameda Point Collaborative",
+    "location": "EB",
+    "description": "This organization is the largest provider of supportive housing for homeless families in Alameda County.",
+    "website": "http://apcollaborative.org",
+    "volunteer": "Needs volunteers as urban farmers and tutors for children.",
+    "address": "677 W. Ranger Ave., Alameda",
+    "email": "volunteer@apcollaborative.org",
+    "phone": "(510) 898-7800"
+  },
+  {
+    "organization": "Bay Area Rescue Mission",
+    "location": "EB",
+    "description": "This group offers a clean, safe place to sleep as well as a yearlong program to help adults get back into a functional, productive life.",
+    "website": "http://www.bayarearescue.org",
+    "volunteer": "one-time and regularly scheduled opportunities, group volunteering, collection drive and internships are available",
+    "address": "2114 Macdonald Ave., Richmond",
+    "email": "volunteers@BayAreaRescue.org",
+    "phone": "(510) 215-4555"
+  },
+  {
+    "organization": "Berkeley Food &amp; Housing Project",
+    "location": "EB",
+    "description": "This emergency food and shelter provider focuses on transitional and permanent housing.",
+    "website": "http://www.bfhp.org",
+    "volunteer": "meal service, facilities, provide a special skill for their clients, or host a donation drive",
+    "address": "1901 Fairview St., Berkeley",
+    "phone": "(510) 318-6606, (510) 649-4965 "
+  },
+  {
+    "organization": "Beyond Emancipation",
+    "location": "EB",
+    "description": "This group helps the county's current and former foster youth as well as those who have been on probation.",
+    "website": "http://www.beyondemancipation.org",
+    "volunteer": "Tutor a community college student, lead a part of the culinary training program, or participate on a career panel.",
+    "address": "675 Hegenberger Road, Ste. 100, Oakland",
+    "email": "volunteer@beyondemancipation.org",
+    "phone": "(510) 667-7694"
+  },
+  {
+    "organization": "Building Futures",
+    "location": "EB",
+    "description": "This group helps people affected by homelessness and domestic violence by operating a safe house, emergencies shelters, a permanent housing site and rental assistance.",
+    "website": "http://www.bfwc.org",
+    "volunteer": "Work with children served by emergency shelters and domestic violence safe house; donate meals, provide building maintenance; crisis line operations; admin duties.",
+    "address": "1395 Bancroft Ave., San Leandro",
+    "phone": "(510) 357-0205 Ext. 206"
+  },
+  {
+    "organization": "Building Opportunities for Self Sufficiency",
+    "location": "EB",
+    "description": "This groups provides housing, employment, mental health services and violence prevention solutions.",
+    "website": "http://www.self-sufficiency.org",
+    "volunteer": "They need help with video support, board members, fundraising/marketing, and assistance at the multiagency service center.",
+    "address": "1918 University Ave. #2A, Berkeley",
+    "email": "info@self-sufficiency.org"
+  },
+  {
+    "organization": "Catholic Charities of the East Bay",
+    "location": "EB",
+    "description": "The church is the largest provider of social services throughout the East Bay.",
+    "website": "http://www.cceb.org",
+    "volunteer": "Go to http://http://www.cceb.org/get-involved/volunteer/",
+    "address": "433 Jefferson St, Oakland, CA 94607 ",
+    "email": "ivillasenormadriz@cceb.org"
+  },
+  {
+    "organization": "Charlotte Maxwell Clinic",
+    "location": "EB",
+    "description": "This free public health clinic provides integrated medical services in Alameda, Contra Costa, Solano, San Francisco, Marin and San Mateo counties via a volunteer network of more than 400 health care practitioners.",
+    "website": "http://www.charlottemaxwell.org",
+    "volunteer": "If you are a licensed acupuncturist, certified massage therapist, guided imagery specialist, Western herbalist, homeopath, driver, Spanish or Chinese language interpreter, or if you would like to offer support in our clinic to assist with fundraising, development or outreach, we warmly invite you to join our community of volunteers.",
+    "address": "610 16th St., Suite 426, Oakland",
+    "phone": "(510) 601-7660"
+  },
+  {
+    "organization": "Christmas for Everyone",
+    "location": "EB",
+    "description": "This program offers Christmas meals, gifts and clothing.",
+    "website": "http://www.christmasforeveryone.com",
+    "volunteer": "Deliver food to homebound people in your own car, videographer to make a video for our website, singers, musicians, magicians, puppeteers and any other talented entertainers who are up for a wonderful day of volunteering. We also have volunteer positions in the dining room, present room, face painters, safety team, clothing room, etc",
+    "address": "701 Escobar St., Martinez, (925) 228-2233",
+    "email": "cfe_christmas@comcast.net"
+  },
+  {
+    "organization": "City Team Shelters Oakland",
+    "location": "EB",
+    "description": "This organization provides shelter, food and other services.",
+    "website": "http://www.cityteam.org/oakland",
+    "volunteer": "In need of clothing closet organizers, meal prep and serve, and laundry assistance",
+    "address": "722 Washington St., Oakland, (510) 452-3758, oakland@cityteam.org",
+    "email": "ateixeira@cityteam.org"
+  },
+  {
+    "organization": "Contra Costa Crisis Center",
+    "location": "EB",
+    "description": "This organization operates crisis lines, including specific help for homeless people and families.",
+    "website": "http://www.crisis-center.org",
+    "volunteer": "Training is held twice a year for crisis lines and 211 lines",
+    "address": "307 Lennon Lane, Walnut Creek, (925) 939-1916",
+    "email": "admin@crisis-center.org"
+  },
+  {
+    "organization": "Contra Costa Interfaith Housing",
+    "location": "EB",
+    "description": "CCIH provides permanent, affordable housing and support services to families and individuals in Contra Costa County.",
+    "website": "http://www.ccinterfaithhousing.org",
+    "volunteer": "after-school tutors (one day a week), monthly dinners for clients, people with trucks for hauling, and setting up apartments for clients",
+    "address": "399 Taylor Blvd., Ste 115, Pleasant Hill",
+    "email": "elba@ccinterfaithhousing.org",
+    "phone": "(925) 944-2244"
+  },
+  {
+    "organization": "Covenant House California",
+    "location": "EB",
+    "description": "This is a shelter for homeless youth ages 18 to 24, many of whom have been abandoned by their families or aged out of the foster care system.",
+    "website": "http://covenanthousecalifornia.org",
+    "volunteer": "tutoring, mentoring, food prep and cooking, administrative tasks, fundraising, facility repair and upkeep",
+    "address": "200 Harrison St., Oakland, CA 94607",
+    "email": "info@covenanthousecalifornia.org",
+    "phone": "(510) 379-1008, (510) 379-1010"
+  },
+  {
+    "organization": "Davis Street Resource Center",
+    "location": "EB",
+    "description": "This group provides food baskets, toys and other items to families in San Leandro, San Lorenzo, Ashland, Cherryland and Castro Valley.",
+    "website": "http://davisstreet.org",
+    "volunteer": "Administration volunteers and medical volunteers are always needed.",
+    "address": "3081 Teagarden St., San Leandro, CA 94577",
+    "phone": "(510) 347-4620 Ext. 119"
+  },
+  {
+    "organization": "Dorothy Day House",
+    "location": "EB",
+    "description": "This Berkeley group provides food support, emergency winter shelter and other services.",
+    "website": "http://dorothydayhouseberkeley.org",
+    "volunteer": "in need of individuals to prepare and serve food",
+    "address": "P.O. Box 12701, Berkeley, CA 94712, (510) 333-7521",
+    "email": "DorothyDayHouse@gmail.com",
+    "phone": "(510) 333-7521"
+  },
+  {
+    "organization": "Eden I &amp; R Inc.",
+    "location": "EB",
+    "description": "This organization is a centralized source of health, housing and human services information in Alameda County.",
+    "website": "http://www.edenir.org",
+    "volunteer": "Volunteers help with a number of referral programs.",
+    "address": "570 B. St., Hayward, CA 94541",
+    "email": "info@edenir.org",
+    "phone": "(510) 537-2710"
+  },
+  {
+    "organization": "FESCO Family Shelter",
+    "location": "EB",
+    "description": "FESCO, a collaboration of more than 24 churches in mid-Alameda County, offers food, supportive services and emergency, transitional and permanent housing.",
+    "website": "http://fescofamilyshelter.org",
+    "volunteer": "office volunteers and life-skills instructors",
+    "address": "21455 Birch St., Box 5, Hayward, CA 94541",
+    "phone": "(510) 886-5473"
+  },
+  {
+    "organization": "Homeless Action Center",
+    "location": "EB",
+    "description": "The center provides free public benefits advocacy to homeless and mentally ill people in Alameda County.",
+    "website": "http://www.homelessactioncenter.org",
+    "volunteer": "law student interns",
+    "address": "3126 Shattuck Ave., Berkeley; 1432 Franklin St., Oakland",
+    "email": "info@homelessactioncenter.org",
+    "phone": 510,
+    "other": "email your resume, cover letter and a writing sample to rhochbaum@homelessactioncenter.org"
+  },
+  {
+    "organization": "Life House Recovery Homes Inc.",
+    "location": "EB",
+    "description": "This group operates sober living homes in Alameda County.",
+    "volunteer": "Volunteers are wanted to spend time with the people in the program.",
+    "address": "P.O. Box 758, Hayward",
+    "phone": "(510) 999-7901"
+  },
+  {
+    "organization": "Loved Twice",
+    "location": "EB",
+    "description": "Loved Twice distributes baby clothing via social workers who serve families with newborns.",
+    "website": "http://www.lovedtwice.org",
+    "volunteer": "Host a baby clothing drive. Details can be found on the website.",
+    "email": "info@lovedtwice.org"
+  },
+  {
+    "organization": "Monument Crisis Center",
+    "location": "EB",
+    "description": "This family resource center serves central and eastern Contra Costa County.",
+    "website": "http://monumentcrisiscenter.org",
+    "volunteer": "food stocking, reception, and client intake",
+    "address": "1990 Market St., Concord, CA 94520",
+    "email": "volunteer@monumentcrisiscenter.org"
+  },
+  {
+    "organization": "Oakland Elizabeth House",
+    "location": "EB",
+    "description": "This shelter serves homeless women and children.",
+    "website": "http://www.oakehouse.org",
+    "volunteer": "child care, mentoring, tutoring and office support",
+    "address": "P.O. Box 1175, Berkeley, CA 94701",
+    "email": "oakehouse@oakehouse.org",
+    "phone": "(510) 658.1380 Ext. 205"
+  },
+  {
+    "organization": "Open Heart Kitchen",
+    "location": "EB",
+    "website": "http://www.openheartkitchen.org",
+    "volunteer": "In need of volunteers to help prepare food and serve food",
+    "address": "1141 Catalina Drive #137, Livermore, CA 94550",
+    "phone": "(925) 580-1619"
+  },
+  {
+    "organization": "Rubicon Programs",
+    "location": "EB",
+    "description": "Rubicon offers a number of services, including job training and financial literacy skills.",
+    "website": "http://www.rubiconprograms.org",
+    "volunteer": "Tax Prep workshop volunteers (we will provide training)",
+    "address": "1918 Bonita Ave, Berkeley",
+    "phone": "(510) 231-3994"
+  },
+  {
+    "organization": "Ruby's Place",
+    "location": "EB",
+    "description": "This shelter serves survivors of domestic violence and human trafficking.",
+    "website": "http://www.rubysplace.org",
+    "volunteer": "volunteers for weekday children's programs, and work on landscaping, painting, room remodels and office duties",
+    "address": "1180 B St., Hayward, CA 94541",
+    "email": "info@rubysplace.org",
+    "phone": "(510) 581-5626 Ext. 902"
+  },
+  {
+    "organization": "Safe Alternatives to Violent Environments",
+    "location": "EB",
+    "description": "SAVE provides shelter, support and educational opportunities to individuals and families.",
+    "website": "http://save-dv.org",
+    "volunteer": "A 40-hour training session begins in January for potential domestic violence support volunteers.",
+    "address": "1900 Mowry Ave., Ste 201, Fremont, CA 94538",
+    "phone": "(510) 574-2250 Ext.106"
+  },
+  {
+    "organization": "Society of St. Vincent de Paul of Alameda County",
+    "location": "EB",
+    "description": "This group offers shelter, food and support to people in need.",
+    "website": "http://www.svdp-alameda.org",
+    "volunteer": "dining room/kitchen, help desk, and other opportunities",
+    "address": "2272 San Pablo Ave., Oakland",
+    "email": "volunteer@svdp-alameda.org",
+    "phone": "(510) 638-7600"
+  },
+  {
+    "organization": "Shepherd's Gate",
+    "location": "EB",
+    "description": "This residential program provides job training and allows the community to â€œadoptâ€ an in-need family.",
+    "website": "http://www.shepherdsgate.org",
+    "volunteer": "They need year-round volunteers in the following areas: child care, administration and event planning.",
+    "address": "1660 Portola Ave., Livermore, CA 94551",
+    "email": "jgandara@shepherdsgate.org",
+    "phone": "(888) 216-4776"
+  },
+  {
+    "organization": "St. Mary's Center",
+    "location": "EB",
+    "description": "Each year St. Mary's helps about 1,400 seniors living alone, helps families who need groceries and operates a preschool for children in poverty.",
+    "website": "http://stmaryscenter.org",
+    "volunteer": "Host and serve a meal for winter guests or the Sunday dinner program. Gardening opportunities are also available.",
+    "address": "925 Brockhurst St., Oakland, CA 94608",
+    "phone": "(510) 923-1627"
+  },
+  {
+    "organization": "STAND! Against Domestic Violence",
+    "location": "EB",
+    "description": "STAND provides prevention, intervention and treatment programs to stop domestic violence and child abuse.",
+    "website": "http://www.standffov.org",
+    "volunteer": "Opportunities exist to tutor, work on the crisis line, work in children's activities, fundraise and participate in special events.",
+    "address": "1410 Danzig Place, Concord",
+    "email": "crisisline@standffov.org",
+    "phone": "(925) 676-2845"
+  },
+  {
+    "organization": "Martin Luther King Jr. Branch of the Oakland Public Library",
+    "location": "EB",
+    "description": "The Martin Luther King Jr. branch offers free meals for youth and after-school programs.",
+    "website": "http://oaklandlibrary.org",
+    "volunteer": "Help with an after-school meal program.",
+    "address": "6833 International Blvd., Oakland",
+    "email": "sdubois@oaklandlibrary.org",
+    "phone": "(510) 238-6572"
+  },
+  {
+    "organization": "Trinity Center",
+    "location": "EB",
+    "description": "This community center serves homeless and working poor adults in Walnut Creek.",
+    "website": "http://www.trinitycenterwc.org",
+    "volunteer": "grant writers, board members, new client intake and more",
+    "address": "1924 Trinity Ave., Walnut Creek",
+    "email": "carol@trinitycenterwc.org",
+    "phone": "(925) 949-8712"
+  },
+  {
+    "organization": "Wardrobe for Opportunity",
+    "location": "EB",
+    "description": "WFO helps poor people to find and keep a job in order to build a career.",
+    "website": "http://www.wardrobe.org",
+    "volunteer": "Volunteer stylists, drivers who pick up donations, sorters for the donations received, administrative positions (data entry), event help",
+    "address": "570 14th St., Oakland, CA 94612",
+    "email": "info@wardrobe.org",
+    "phone": "(510) 463-4100 Ext. 216"
+  },
+  {
+    "organization": "Youth Spirit Artworks",
+    "location": "EB",
+    "description": "This arts job training program serves at-risk and homeless youth, ages 16-25.",
+    "website": "http://www.youthspiritawards.org",
+    "volunteer": "help with events, special work days, workshop and training facilitation",
+    "address": "1740 Alcatraz Ave., Berkeley",
+    "email": "admin@youthspiritartworks.org",
+    "phone": "(510) 282-0396"
+  },
+  {
+    "organization": "Cityteam",
+    "location": "SB",
+    "description": "This Christian group serves people in extreme poverty around the Bay Area by providing meals, shelter, recovery programs, clothing, hygiene items and more.",
+    "website": "http://cityteam.org",
+    "volunteer": "fine opportunities at http://www.cityteam.org/volunteer",
+    "address": "Headquarters: 2304 Zanker Road. San Jose, CA 95131",
+    "email": "info@cityteam.org",
+    "phone": "(408) 232-5600"
+  },
+  {
+    "organization": "Family Supportive Housing",
+    "location": "SB",
+    "description": "This organization provides temporary housing and support to families.",
+    "website": "http://www.familysupportivehousing.org",
+    "volunteer": "Help sorting gift items. Help parents pick out gifts for their children. Help children pick out gifts for their parents. Prepare and serve a meal.",
+    "address": "692 N. King Road, San Jose, CA 95133",
+    "email": "volunteer@familysupportivehousing.org",
+    "phone": "(408) 926.8885"
+  },
+  {
+    "organization": "LifeMoves",
+    "location": "SB",
+    "description": "This group provides interim housing and services to families and individuals.",
+    "website": "http://www.lifemoves.org",
+    "volunteer": "Visit: http://www.lifemoves.org/holidays",
+    "address": "181 Constitution Drive, Menlo Park, CA 94025",
+    "email": "chooper@lifemoves.org",
+    "phone": "(650) 444-4176",
+    "other": "Visit: http://www.lifemoves.org/holidays"
+  },
+  {
+    "organization": "PATH San Jose",
+    "location": "SB",
+    "description": "PATH operates services throughout the state and connects people with a variety of homeless prevention programs.",
+    "website": "http://www.epath.org",
+    "volunteer": "Work with the welcome home program or help with administrative work.",
+    "address": "31 N. 2nd St, Ste 265, San Jose, CA 95113",
+    "email": "meganc@epath.org",
+    "phone": "(310) 779-9954"
+  },
+  {
+    "organization": "Project WeHOPE",
+    "location": "SB",
+    "description": "This shelter program also operates units with showers, laundry machines and restrooms.",
+    "website": "http://www.projectwehope.org",
+    "volunteer": "Help with client dinners, laundry, fundraising events and more.",
+    "address": "1854 Bay Road, East Palo Alto",
+    "email": "info@projectwehope.com",
+    "phone": "(650) 330-8000"
+  },
+  {
+    "organization": "St. Joseph's Family Center",
+    "location": "SB",
+    "description": "This organization operates a large food distribution pantry.",
+    "website": "http://www.stjosephsgilroy.org",
+    "volunteer": "various help with pantry operations",
+    "address": "7950 Church St., Gilroy, CA 95020",
+    "email": "vickym@stjosephsgilroy.org",
+    "phone": "(408) 842-6662 Ext. 26"
+  }
+]
