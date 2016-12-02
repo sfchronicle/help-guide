@@ -76,7 +76,8 @@
     "website": "http://www.thefoodprogram.org",
     "items_needed": "unopened food",
     "address": "Mailing address: P.O. Box 170202, San Francisco, CA 94117. Location: 1525 Waller St., San Francisco",
-    "email": "hafppantry@gmail.com"
+    "email": "hafppantry@gmail.com",
+    "phone": "N/A"
   },
   {
     "organization": "Homeless Children’s Network",
@@ -116,6 +117,7 @@
     "website": "http://www.larkinstreetyouth.org",
     "items_needed": "hygiene supplies such as toothbrushes, toothpaste, lotion, deodorant, shampoo, conditioner, disposable razors, shaving cream and feminine hygiene products",
     "address": "134 Golden Gate Ave., San Francisco",
+    "email": "N/A",
     "phone": "(415) 673-0911",
     "other": "Drop off donations at 134 Golden Gate Ave. between 9 a.m. and 4:30 p.m."
   },
@@ -126,7 +128,8 @@
     "website": "http://www.lavamae.org",
     "items_needed": "hygiene kits, socks, soap, shampoo/conditioner, toothbrushes/toothpaste, hand sanitizer, combs, razors, lotion and Q-tips",
     "address": "3543 18th St. No. 24, San Francisco",
-    "email": "donations@lavamae.org"
+    "email": "donations@lavamae.org",
+    "phone": "N/A"
   },
   {
     "organization": "La Voz Latina",
@@ -165,7 +168,8 @@
     "website": "http://www.simplythebasics.org",
     "items_needed": "dental hygiene, travel-size shampoo and conditioner, wrapped bars of soap, deodorant, razors, combs, travel-size lotion, feminine hygiene, new white cotton socks",
     "address": "P.O. Box 591453, San Francisco",
-    "email": "admin@simplythebasics.org"
+    "email": "admin@simplythebasics.org",
+    "phone": "N/A"
   },
   {
     "organization": "St. Anthony Foundation",
@@ -195,6 +199,7 @@
     "website": "http://www.thegubbioproject.org",
     "items_needed": "clean and in-good-repair socks, hygiene products, cough drops, blankets, and 45-gallon trash bags",
     "address": "St. Boniface Church, 133 Golden Gate Ave., San Francisco, and St. John the Evangelist 1661 15th St., San Francisco",
+    "email": "N/A",
     "phone": "(415) 861-5848"
   },
   {
@@ -202,7 +207,10 @@
     "location": "SF",
     "description": "This Christian organization aims to help families and individuals with emergency food, shelter and assistance.",
     "website": "http://www.sanfrancisco.salvationarmy.org",
-    "items_needed": "donate a car, clothing, furniture and household goods. Log on to their website to find a drop-off location"
+    "items_needed": "donate a car, clothing, furniture and household goods. Log on to their website to find a drop-off location",
+    "address": "Multiple locations ",
+    "email": "N/A",
+    "phone": "N/A"
   },
   {
     "organization": "Community Action North Bay",
@@ -221,6 +229,7 @@
     "website": "http://www.cots-homeless.org",
     "items_needed": "feminine products, men’s jeans, socks, new adult underwear, flash drives, pocket calendars, prepaid cell phones and minutes",
     "address": "900 Hopper St., Petaluma",
+    "email": "N/A",
     "phone": "(707) 765-6530 Ext. 111",
     "other": "Call for more information about what this group’s current needs are. Bring items to the Mary Isaak Center at 900 Hopper St. on weekends from 7 a.m. to 7 p.m. Food inquiries can be made at (707) 765-6530 Ext. 131. Other calls should go to (707) 765-6530 Ext. 111."
   },
@@ -231,6 +240,7 @@
     "website": "http://www.rittercenter.org",
     "items_needed": "canned and sealed food, tuna fish, peanut butter, canned chili, chunky soups, pasta, pasta sauce, toiletry items, small soaps, shampoos/conditioners, shaving cream, toothbrushes/toothpaste, new sleeping bags, new socks in adult sizes, belts and shoelaces, new or gently used hiking shoes or camping-size backpacks",
     "address": "16 Ritter St., San Rafael",
+    "email": "N/A",
     "phone": "(415) 457-8182 Ext. 109",
     "other": "Drop off donations at 16 Ritter St., San Rafael, during the week from 9 a.m. to 4 p.m."
   },
@@ -272,6 +282,7 @@
     "website": "http://www.bayarearescue.org",
     "items_needed": "canned tuna and chicken, canned veggies and fruit, flour, cornmeal, oatmeal, and pancake batter, pasta, sugar, cooking oil and vinegar, bedding, hygiene kits, cleaning supplies",
     "address": "2114 Macdonald Ave., Richmond",
+    "email": "N/A",
     "phone": "(510) 215-4887",
     "other": "Drop off donations at 123 Macdonald Ave., Richmond"
   },
@@ -282,6 +293,7 @@
     "website": "http://www.bfwc.org",
     "items_needed": "New socks and underclothes for adults and children; towels; twin-size sheets; cleaning supplies; toilet tissue.",
     "address": "1395 Bancroft Ave., San Leandro",
+    "email": "N/A",
     "phone": "(510) 357-0205 Ext. 205"
   },
   {
@@ -311,6 +323,7 @@
     "website": "http://www.crisis-center.org",
     "items_needed": "gently used clothing or items for the thrift shop",
     "address": "(925) 930-9393",
+    "email": "N/A",
     "phone": "(925) 930-9393"
   },
   {
@@ -340,6 +353,7 @@
     "website": "davisstreet.org",
     "items_needed": "backpacks and classroom supplies",
     "address": "3081 Teagarden St., San Leandro, CA 94577",
+    "email": "N/A",
     "phone": "(510) 347-4620"
   },
   {
@@ -349,6 +363,7 @@
     "website": "http://www.ecaprogram.org",
     "items_needed": "food and household items",
     "address": "3610 San Pablo Ave., Emeryville",
+    "email": "N/A",
     "phone": "(510) 499-1263",
     "other": "Drop off donations at 3610 San Pablo Ave., Emeryville."
   },
@@ -359,6 +374,7 @@
     "website": "N/A",
     "items_needed": "canned food, turkeys, plates, pillows, bedding, silverware, plates and wrapped toys",
     "address": "P.O. Box 758, Hayward",
+    "email": "N/A",
     "phone": "(510) 999-7901"
   },
   {
@@ -367,8 +383,9 @@
     "description": "Loved Twice distributes baby clothing via social workers who serve families with newborns.",
     "website": "http://www.lovedtwice.org",
     "items_needed": "Baby clothes in sizes 0-12 months.",
-    "address": "info@lovedtwice.org",
+    "address": "N/A",
     "email": "info@lovedtwice.org",
+    "phone": "N/A",
     "other": "more than 20 drop-off locations are listed on the website."
   },
   {
@@ -398,6 +415,7 @@
     "website": "http://www.openheartkitchen.org",
     "items_needed": "food in bulk and office supplies in bulk",
     "address": "1141 Catalina Drive #137, Livermore, CA 94550",
+    "email": "N/A",
     "phone": "(925) 580-1619"
   },
   {

@@ -24,12 +24,11 @@
 
     <%= t.include("partials/_nav.html") %>
 
-
     <div class="container">
       <div class="headline">
-        <p class="brand">Beyond Homelessness</p>
+        <p class="brand"><a href="http://projects.sfchronicle.com/sf-homeless/">Beyond Homelessness</a></p>
         <h1>How to Help Guide</h1>
-        <p class="deck">The Bay Area is home to hundreds of nonprofit organizations dedicated to helping marginally housed people, those who are currently homeless and people who are at risk of losing their housing. All nonprofits seek donations, but here are a few that also accept volunteers or donated items. To add your nonprofit to the list, email <a href="mailto:volunteerbayarea@gmail.com?subject=Beyond Homelessness: How to help guide">volunteerbayarea@gmail.com</a>.</p>
+        <p class="deck">The Bay Area is home to hundreds of nonprofit organizations dedicated to helping marginally housed people, those who are currently homeless and people who are at risk of losing their housing. All nonprofits seek donations, but here are a few that also accept volunteers or donated items. To add your nonprofit to the list, email <a href="mailto:sfhomelessproject@gmail.com?subject=Beyond Homelessness: How to help guide">sfhomelessproject@gmail.com</a>.</p>
       </div>
       <div id="btn-group">
         <button id="btn-volunteer" class="btn disabled">VOLUNTEER</button>
@@ -65,9 +64,9 @@
               <td><%= org.organization %>
               <td><%= org.description %>
               <td><a href="<%= org.website %>" target="_blank"><%= org.website %></a>
-              <td><a href="mailto:<%= org.email %>"><%= org.email %></a>
+              <td><% if (org.email == 'N/A') { %>N/A<% } else { %><a href="mailto:<%= org.email %>"><%= org.email %></a><% } %>
               <td><%= org.address %>
-              <td><a href="tel:<%= org.phone %>"><%= org.phone %></a>
+              <td><% if (org.phone == 'N/A') { %>N/A<% } else { %><a href="tel:<%= org.phone %>"><%= org.phone %></a><% } %>
               <td><%= org.items_needed %>
               <td><%= org.location %>
 
@@ -104,8 +103,8 @@
               <td><a href="<%= org.website %>" target="_blank"><%= org.website %></a>
               <td><%= org.volunteer %>
               <td><%= org.address %>
-              <td><a href="mailto:<%= org.email %>"><%= org.email %></a>
-              <td><a href="tel:<%= org.phone %>"><%= org.phone %></a>
+              <td><% if (org.email == 'N/A') { %>N/A<% } else { %><a href="mailto:<%= org.email %>"><%= org.email %></a><% } %>
+              <td><% if (org.phone == 'N/A') { %>N/A<% } else { %><a href="tel:<%= org.phone %>"><%= org.phone %></a><% } %>
               <td><%= org.location %>
             <% }); %>
           </tbody>
