@@ -1,36 +1,30 @@
 <!doctype html>
 <html>
   <head>
-    <title>Beyond Homelessness: How to help guide</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <meta name="__sync_contentCategory" content="meterA">
     <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="http://cdn.datatables.net/1.10.12/css/jquery.dataTables.min.css">
     <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/responsive/2.1.0/css/responsive.dataTables.min.css">
     <link rel="stylesheet" type="text/css" href="style.css">
-
-    <!-- scripts for stand-alone projects, comment for embedded projects -->
-    <%= !json.project.embedded ? t.include("partials/_paywall.html") : t.include("partials/_embedframe.html") %>
-        
-    <%= t.include("partials/_head.html") %>
+    <script src="http://projects.sfchronicle.com/shared/js/jquery.min.js"></script>
     <script src="http://cdn.datatables.net/1.10.12/js/jquery.dataTables.min.js"></script>
     <script src="https://cdn.datatables.net/responsive/2.1.0/js/dataTables.responsive.min.js"></script>
+    <script src="http://projects.sfchronicle.com/shared/js/responsive-child.js"></script>
 
   </head>
 
-  <body>
+ <body is="responsive-body">
 
-    <%= t.include("partials/_nav.html") %>
 
-    <div class="container">
-      <div class="headline">
-      <div class="hand-logo"><img src="./assets/photos/bg.jpg"></div>
-        <p class="brand"><a href="http://projects.sfchronicle.com/sf-homeless/">Beyond Homelessness</a></p>
-        <h1>Bay Area's Helping Hands</h1>
+    <div class="container widget">
+    <hr>
+      <div class="headline widget">
+        <p class="brand widget"><a href="https://sfhomelessproject.com/" target="_blank">SF Homeless Project</a></p>
+        <h1 class="widget">Bay Area's Helping Hands</h1>
         <p class="deck">A directory of nonprofit groups that need donations of specific items or volunteer help. To add your nonprofit to the list, email <a href="mailto:sfhomelessproject@gmail.com?subject=Beyond Homelessness: How to help guide">sfhomelessproject@gmail.com</a>.</p>
       </div>
-      <div id="btn-group">
+      <div id="btn-group" class="widget">
         <button id="btn-volunteer" class="btn disabled widget">VOLUNTEER</button>
         <button id="btn-donate" class="btn widget">DONATE</button>
         
@@ -38,14 +32,7 @@
       <!-- <hr> -->
 
       <div id="donate-table" class="table-wrapper">
-        <div id="btn-sort">
-          <span>Sort by region:</span><br>
-          <button class="small-btn" id="SF">SF</button>
-          <button class="small-btn" id="EB">East Bay</button>
-          <button class="small-btn" id="NB">North Bay</button>
-          <button class="small-btn" id="SB">South Bay</button>
-          <button class="small-btn disabled" id="all">Show all</button>
-        </div>
+        
         <table id="donate" class="display responsive" cellspacing="0" width="100%">
           <thead>
             <tr>
@@ -55,8 +42,7 @@
               <th class="desktop-all">Email: 
               <th class="desktop-all">Address: 
               <th class="desktop-all">Phone: 
-              <th class="desktop-all">Items Needed: 
-              <th class="desktop-all"> 
+              <th class="desktop-all">Items Needed:
 
           <tbody>
             <% json.donate.forEach(function(org) { %>
@@ -68,7 +54,6 @@
               <td><%= org.address %>
               <td><% if (org.phone == 'N/A') { %>N/A<% } else { %><a href="tel:<%= org.phone %>"><%= org.phone %></a><% } %>
               <td><%= org.items_needed %>
-              <td><%= org.location %>
 
             <% }); %>
           </tbody>
@@ -76,14 +61,6 @@
       </div>
 
       <div id="volunteer-table" class="table-wrapper">
-      <div id="btn-sort">
-          <span>Sort by region:</span><br>
-          <button class="small-btn" id="sf-v">SF</button>
-          <button class="small-btn" id="eb-v">East Bay</button>
-          <button class="small-btn" id="nb-v">North Bay</button>
-          <button class="small-btn" id="sb-v">South Bay</button>
-          <button class="small-btn disabled" id="all-v">Show all</button>
-        </div>
         <table id="volunteer" class="display responsive" cellspacing="0" width="100%">
           <thead>
             <tr>
@@ -94,7 +71,6 @@
               <th class="desktop-all">Adress: 
               <th class="desktop-all">Email: 
               <th class="desktop-all">Phone: 
-              <th class="desktop-all">
           <tbody>
             <% json.volunteer.forEach(function(org) { %>
             <tr class="row <%= org.location %>">
@@ -105,28 +81,19 @@
               <td><%= org.address %>
               <td><% if (org.email == 'N/A') { %>N/A<% } else { %><a href="mailto:<%= org.email %>"><%= org.email %></a><% } %>
               <td><% if (org.phone == 'N/A') { %>N/A<% } else { %><a href="tel:<%= org.phone %>"><%= org.phone %></a><% } %>
-              <td><%= org.location %>
             <% }); %>
           </tbody>
         </table>
       </div>
-
+<hr>
     </div> <!-- End .container -->
-
-    <%= t.include("partials/_footer.html") %>
 
     <script src="app.js" async></script>
 
     <script>
       var table = $('#donate').DataTable({
-        columnDefs: [
-            {
-                "targets": [ 7 ],
-                "visible": false
-            }
-        ],
         ordering:false,
-        scrollY: "400px",
+        scrollY: "250px",
          responsive: {
             details: {
                 display: $.fn.dataTable.Responsive.display.childRowImmediate,
@@ -136,14 +103,8 @@
       });
 
       var tabletwo = $('#volunteer').DataTable({
-        columnDefs: [
-            {
-                "targets": [ 7 ],
-                "visible": false
-            }
-        ],
         ordering:false,
-        scrollY: "400px",
+        scrollY: "250px",
          responsive: {
             details: {
                 display: $.fn.dataTable.Responsive.display.childRowImmediate,
@@ -166,109 +127,6 @@
         $('#donate-table').hide();
         $('#volunteer-table').show();
       });
-
-      $("#SF").click(function() {
-        $.fn.dataTable.ext.search.push(
-          function( settings, data, dataIndex ) {
-            return (data[7] == 'SF')
-              ? true
-              : false
-          }     
-        );
-        table.draw();
-        $.fn.dataTable.ext.search.pop();
-      });
-
-      $("#sf-v").click(function() {
-        $.fn.dataTable.ext.search.push(
-          function( settings, data, dataIndex ) {
-            return (data[7] == 'SF')
-              ? true
-              : false
-          }     
-        );
-        tabletwo.draw();
-        $.fn.dataTable.ext.search.pop();
-      });
-
-      $("#EB").click(function() {
-        $.fn.dataTable.ext.search.push(
-          function( settings, data, dataIndex ) {
-            return (data[7] == 'EB')
-              ? true
-              : false
-          }     
-        );
-        table.draw();
-        $.fn.dataTable.ext.search.pop();
-      });
-
-      $("#eb-v").click(function() {
-        $.fn.dataTable.ext.search.push(
-          function( settings, data, dataIndex ) {
-            return (data[7] == 'EB')
-              ? true
-              : false
-          }     
-        );
-        tabletwo.draw();
-        $.fn.dataTable.ext.search.pop();
-      });
-
-      $("#SB").click(function() {
-        $.fn.dataTable.ext.search.push(
-          function( settings, data, dataIndex ) {
-            return (data[7] == 'SB')
-              ? true
-              : false
-          }     
-        );
-        table.draw();
-        $.fn.dataTable.ext.search.pop();
-      });
-
-      $("#sb-v").click(function() {
-        $.fn.dataTable.ext.search.push(
-          function( settings, data, dataIndex ) {
-            return (data[7] == 'SB')
-              ? true
-              : false
-          }     
-        );
-        tabletwo.draw();
-        $.fn.dataTable.ext.search.pop();
-      });
-
-      $("#NB").click(function() {
-        $.fn.dataTable.ext.search.push(
-          function( settings, data, dataIndex ) {
-            return (data[7] == 'NB')
-              ? true
-              : false
-          }     
-        );
-        table.draw();
-        $.fn.dataTable.ext.search.pop();
-      });
-
-      $("#nb-v").click(function() {
-        $.fn.dataTable.ext.search.push(
-          function( settings, data, dataIndex ) {
-            return (data[7] == 'NB')
-              ? true
-              : false
-          }     
-        );
-        tabletwo.draw();
-        $.fn.dataTable.ext.search.pop();
-      });
-
-    $("#all").click(function() {
-         table.draw();
-    });
-    $("#all-v").click(function() {
-         tabletwo.draw();
-    });
 
     $('.small-btn').click(function() {
       $(".small-btn.disabled").removeClass("disabled");

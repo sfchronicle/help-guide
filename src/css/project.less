@@ -2,7 +2,7 @@ body{
 	-webkit-font-smoothing: antialiased;
 }
 .headline{
-	margin-top:3em;
+	margin-top:2.3em;
 	width:100%;
 	text-align:center;
 	z-index:3;
@@ -11,10 +11,23 @@ body{
 	h1{
 		margin:0 0 0.2em;
     line-height:1.2;
+    
     @media @mobile{
       font-size:1.57em;
     }
+
+    &.widget{
+      font-size:1.5em;
+      
+      @media @mobile{
+        font-size:1em;
+      }
+    }
 	}
+
+  &.widget{
+    margin-top:0;
+  }
 
   @media @mobile{
     margin-top:2.5em;
@@ -23,6 +36,10 @@ body{
 
 .container{
   padding:0 1em;
+
+  &.widget{
+    margin-top:10px;
+  }
 }
 .brand{
   font-family: "Dispatch";
@@ -38,8 +55,15 @@ body{
     color: #ec1c24;
   }
 
-  @media @mobile{
+  &.widget{
     font-size:0.7em;
+
+    @media @mobile{
+      font-size:0.57em;
+    }
+  }
+  @media @mobile{
+    font-size:0.57em;
   }
 
 }
@@ -47,8 +71,8 @@ body{
 .deck{
 	font-family: FarnhamText;
   line-height: 1.4;
-  font-size: 19px;
-  max-width: 800px;
+  font-size: 18px;
+  max-width: 666px;
   padding:0;
 
   @media @mobile{
@@ -60,6 +84,10 @@ body{
 	max-width: 300px;
 	margin:0 auto;
 	text-align:center;
+
+  &.widget{
+    margin-top:-10px;
+  }
 }
 
 
@@ -86,13 +114,17 @@ body{
   	&:hover{
   	background:#d46767;
   	}
+  }
 
+  &.widget{
+    font-size:12px;
+    padding: 5px 10px;
   }
 }
 
 #btn-sort{
   text-align: center;
-  margin-top: 2em;
+  margin-top: 1em;
 }
 
 .small-btn {
@@ -100,7 +132,7 @@ body{
   -moz-border-radius: 4;
   border-radius: 4px;
   color: #ffffff;
-  font-size: 14px;
+  font-size: 10px;
   background: #d93434;
   padding: 5px 20px;
   text-decoration: none;
@@ -182,12 +214,12 @@ td[tabindex='0'] {
 
 #volunteer_filter, #donate_filter{
   font-family: antennaregular;
-    font-size: 0.9em;
+    font-size: 0.6em;
     margin-top:0.5em;
 }
 
 .dataTables_info, .dataTables_paginate.paging_simple_numbers{
-  font-size:0.7em;
+  font-size:0.5em;
   font-family:@med-graphics;
 }
 
@@ -211,4 +243,18 @@ td[tabindex='0'] {
 .link{
   padding:0;
   vertical-align:5px;
+}
+
+.hand-logo{
+  margin:0 auto;
+  max-width:70px;
+  img{
+    width:100%;
+  }
+}
+
+table.dataTable tbody tr {
+  @media @mobile{
+    font-size:0.7em;
+  }
 }
