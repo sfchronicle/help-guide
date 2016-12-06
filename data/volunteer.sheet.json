@@ -7,8 +7,7 @@
     "volunteer": "weekly tutors, bimonthly volunteers to serve as companions, and as-needed volunteers to run creative fundraising projects",
     "address": "Fort Mason, Building 33",
     "email": "admin@homeaway.org",
-    "phone": "(415) 561-5533",
-    "other": "Fill out an online application via their website."
+    "phone": "(415) 561-5533"
   },
   {
     "organization": "CalFresh",
@@ -31,6 +30,16 @@
     "phone": "(925) 935-9938"
   },
   {
+    "organization": "Coalition on Homelessness",
+    "location": "SF",
+    "description": "The Coalition on Homelessness is an advocacy organization protecting the human rights of those forced to remain on the streets.",
+    "website": "http://www.cohsf.org/",
+    "volunteer": "Outreach to homeless people, research, joining workgroups, policy development, writing for the organization’s newspaper, artwork and poetry, photography.",
+    "address": "468 Turk St., San Francisco, CA 94102",
+    "email": "N/A",
+    "phone": "(415) 346-3740"
+  },
+  {
     "organization": "Compass Family Services",
     "location": "SF",
     "description": "Compass helps families facing homelessness transition from crisis to economic stability.",
@@ -38,8 +47,7 @@
     "volunteer": "Play with kids, tutor adults or children, teach (nutrition, finances, etc.), mentor an adult, organize office space, strategize and create content for social media.",
     "address": "49 Powell St., 3rd Floor, S.F.",
     "email": "jheck@compass-sf.org",
-    "phone": "(415) 644-0504, Ext.1103",
-    "other": "Fill out an online form via their website and email jheck@compass-sf.org."
+    "phone": "(415) 644-0504 Ext.1103"
   },
   {
     "organization": "Delivering Innovation in Supportive Housing (DISH)",
@@ -49,8 +57,7 @@
     "volunteer": "fund development, marketing or social media strategy, painting projects, sidewalk gardening, Tenant Appreciation, Party Health &amp; Wellness Fair, DISH Anniversary Bash",
     "address": "232 Eddy St.",
     "email": "arielfortune@dishsf.org",
-    "phone": "(415) 776-3474 Ext. 102",
-    "other": "Complete an online form via their website"
+    "phone": "(415) 776-3474 Ext. 102"
   },
   {
     "organization": "Dolores Street Community Services",
@@ -90,8 +97,7 @@
     "volunteer": "http://www.foodrunners.org/donate-time",
     "address": "N/A",
     "email": "N/A",
-    "phone": "N/A",
-    "other": "They need regular and on-call runners to pick up food from donors and take it to recipients."
+    "phone": "N/A"
   },
   {
     "organization": "Glide Memorial Church",
@@ -101,8 +107,7 @@
     "volunteer": "Serve meals in the daily free meals program, work with children, get involved in the HIV services center, help the fundraising or finance office, help at their Sunday celebrations and assist with special events.",
     "address": "330 Ellis St.",
     "email": "volteam@glide.org",
-    "phone": "(415) 674-6000",
-    "other": "Email volteam@glide.org about opportunities in the meal program, and submit your resume and cover letter to LSmall@glide.org about long-term opportunities."
+    "phone": "(415) 674-6000"
   },
   {
     "organization": "Haight Ashbury Food Program",
@@ -142,8 +147,7 @@
     "volunteer": "attorneys, legal professionals, social service professionals, and legal and social work student interns needed",
     "address": "125 Hyde St., San Francisco, CA 94102",
     "email": "gchun@sfbar.org",
-    "phone": "(415) 575-3130",
-    "other": "Legal interns should email ekatayama@sfbar.org, social work interns should email jrosenthal@sfbar.org, and attorneys or social work professionals can inquire about volunteer opportunities by contacting gchun@sfbar.org or kdanielson@sfbar.org."
+    "phone": "(415) 575-3130"
   },
   {
     "organization": "Homeless Children's Network",
@@ -163,8 +167,7 @@
     "volunteer": "They need help in their community technology center, wellness center, low-income tax clinic, as well as with donations and administrative work.",
     "address": "2500 18th St., San Francisco",
     "email": "info@homelessprenatal.org",
-    "phone": "(415) 546-6756",
-    "other": "Fill out a volunteer interest form via their website, or call Sharon at (415) 546-6756 Ext. 381"
+    "phone": "(415) 546-6756"
   },
   {
     "organization": "La Casa de las Madres",
@@ -224,8 +227,7 @@
     "volunteer": "kitchen, shelter upkeep projects, holiday and special events, tutoring club, children's program, and career development program",
     "address": "1065 Sutter St.",
     "email": "ksarver@raphaelhouse.org",
-    "phone": "(415) 345-7200",
-    "other": "Fill out their online application, and email ksarver@raphaelhouse.org."
+    "phone": "(415) 345-7200"
   },
   {
     "organization": "SF-Marin Food Bank",
@@ -245,8 +247,7 @@
     "volunteer": "Dining Room, free clothing program, technology lab, medical clinic, social work center, operations, Young Professionals Council",
     "address": "150 Golden Gate Ave., San Francisco",
     "email": "info@stanthonysf.org",
-    "phone": "(415) 592-2600",
-    "other": "Create a volunteer account via their website or email ACahalan@stanthonysf.org"
+    "phone": "(415) 592-2600"
   },
   {
     "organization": "Martin de Porres House of Hospitality",
@@ -286,8 +287,7 @@
     "volunteer": "Office assistant positions available, tutor and inspire youth at the Tenderloin After-School Program, harvest local produce from the community garden.",
     "address": "201 Eddy St.",
     "email": "hcaldwell@tndc.org ",
-    "phone": "(415) 776-2151",
-    "other": "email dobrero@tndc.org about the after-school program; email hcaldwell@tndc.org about the community garden and office assistant positions"
+    "phone": "(415) 776-2151"
   },
   {
     "organization": "The Gubbio Project",
@@ -307,8 +307,7 @@
     "volunteer": "Book speaking engagements with high school leadership classes, spearhead a coalition of faith communities that invest in and adopt AHO, offer a room in your home for a youth who needs transitional housing, offer your professional services pro bono, volunteer at events and fundraisers.",
     "address": "P.O. Box 2278, Mill Valley",
     "email": "zarab@comcast.net",
-    "phone": "(415) 381-7173",
-    "other": "Submit a message via their website, call, or email zarab@comcast.net"
+    "phone": "(415) 381-7173"
   },
   {
     "organization": "Community Action North Bay",
@@ -318,8 +317,7 @@
     "volunteer": "Help with inventory, sorting and bagging food on Tuesday and Wednesday mornings, provide social support to housing clients, and help with clerical and bookkeeping duties.",
     "address": "416 Union Ave., Fairfield",
     "email": "info@canbinc.org",
-    "phone": "(707) 427-1148 Ext.112",
-    "other": "Complete a volunteer application form on the website, email keetra@canbinc.org about the food program, lisa@canbinc.org about the mentoring program, and heather@canbinc.org about the payee services"
+    "phone": "(707) 427-1148 Ext.112"
   },
   {
     "organization": "Committee on the Shelterless",
@@ -369,8 +367,7 @@
     "volunteer": "Serve breakfast and/or lunch, sort donations, assist program staff, interact with women and their children, distribute hygiene items and other essentials.",
     "address": "1207 Cleveland Ave., Santa Rosa",
     "email": "info@thelivingroomsc.org",
-    "phone": "(707) 579-0138 Ext. 0",
-    "other": "Complete an application form and agreement from their website"
+    "phone": "(707) 579-0138 Ext. 0"
   },
   {
     "organization": "Abode Services/Housing First",
@@ -380,8 +377,7 @@
     "volunteer": "Serve on committees and their Board of Directors, prepare and serve meals, tutor and lead children's activities, help sort and store donated items, perform light cleaning and maintenance, provide office and front desk support, help during the holidays and special events, and more",
     "address": "40849 Fremont Blvd., Fremont",
     "email": "N/A",
-    "phone": "(510) 657-7409",
-    "other": "Fill out online form at http://http://www.abodeservices.org/support_us/volunteers"
+    "phone": "(510) 657-7409"
   },
   {
     "organization": "Alameda Point Collaborative",
@@ -511,7 +507,7 @@
     "volunteer": "tutoring, mentoring, food prep and cooking, administrative tasks, fundraising, facility repair and upkeep",
     "address": "200 Harrison St., Oakland, CA 94607",
     "email": "info@covenanthousecalifornia.org",
-    "phone": "(510) 379-1008, (510) 379-1010"
+    "phone": "(510) 379-1008"
   },
   {
     "organization": "Davis Street Resource Center",
@@ -561,8 +557,7 @@
     "volunteer": "law student interns",
     "address": "3126 Shattuck Ave., Berkeley; 1432 Franklin St., Oakland",
     "email": "info@homelessactioncenter.org",
-    "phone": "N/A",
-    "other": "email your resume, cover letter and a writing sample to rhochbaum@homelessactioncenter.org"
+    "phone": "N/A"
   },
   {
     "organization": "Life House Recovery Homes Inc.",
@@ -602,7 +597,7 @@
     "volunteer": "child care, mentoring, tutoring and office support",
     "address": "P.O. Box 1175, Berkeley, CA 94701",
     "email": "oakehouse@oakehouse.org",
-    "phone": "(510) 658.1380 Ext. 205"
+    "phone": "(510) 658-1380 Ext. 205"
   },
   {
     "organization": "Open Heart Kitchen",
@@ -751,8 +746,7 @@
     "volunteer": "Visit: http://www.lifemoves.org/holidays",
     "address": "181 Constitution Drive, Menlo Park, CA 94025",
     "email": "chooper@lifemoves.org",
-    "phone": "(650) 444-4176",
-    "other": "Visit: http://www.lifemoves.org/holidays"
+    "phone": "(650) 444-4176"
   },
   {
     "organization": "PATH San Jose",

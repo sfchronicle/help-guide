@@ -10,6 +10,16 @@
     "phone": "(415) 561-5533"
   },
   {
+    "organization": "Coalition on Homelessness",
+    "location": "SF",
+    "description": "The Coalition on Homelessness is an advocacy organization protecting the human rights of those forced to remain on the streets.",
+    "website": "www.cohsf.org",
+    "items_needed": "new Mac computers, basic software",
+    "address": "468 Turk St., San Francisco, CA 94102",
+    "email": "N/A",
+    "phone": "(415) 346-3740"
+  },
+  {
     "organization": "Compass Family Services",
     "location": "SF",
     "description": "Compass helps families facing homelessness transition from crisis to economic stability.",
@@ -37,7 +47,7 @@
     "items_needed": "gift cards, interview clothes, employment opportunities",
     "address": "65 Ninth St., San Francisco CA. 94103",
     "email": "brandon@streetsteam.org",
-    "phone": "(224) 715-.6038"
+    "phone": "(224) 715-6038"
   },
   {
     "organization": "Episcopal Community Services San Francisco",
@@ -107,8 +117,7 @@
     "items_needed": "new diapers, baby wipes, toiletries, formula and baby food, and gently used clothing, strollers, car seats and books",
     "address": "2500 18th St., San Francisco",
     "email": "info@homelessprenatal",
-    "phone": "(415) 546-6756",
-    "other": "Donations may be dropped off between 8 a.m. and 4 p.m. on Fridays."
+    "phone": "(415) 546-6756"
   },
   {
     "organization": "Larkin Street Youth Services",
@@ -118,8 +127,7 @@
     "items_needed": "hygiene supplies such as toothbrushes, toothpaste, lotion, deodorant, shampoo, conditioner, disposable razors, shaving cream and feminine hygiene products",
     "address": "134 Golden Gate Ave., San Francisco",
     "email": "N/A",
-    "phone": "(415) 673-0911",
-    "other": "Drop off donations at 134 Golden Gate Ave. between 9 a.m. and 4:30 p.m."
+    "phone": "(415) 673-0911"
   },
   {
     "organization": "Lava Mae",
@@ -179,8 +187,7 @@
     "items_needed": "clean, like-new clothing, knit hats and scarves, clothes, food, automobiles",
     "address": "150 Golden Gate Ave., San Francisco",
     "email": "info@stanthonysf.org",
-    "phone": "(415) 592-2600",
-    "other": "Drop off donations at 121 Golden Gate Ave. any day between 9 a.m. and 4 p.m."
+    "phone": "(415) 592-2600"
   },
   {
     "organization": "St. Vincent de Paul Society of San Francisco",
@@ -230,8 +237,7 @@
     "items_needed": "feminine products, men’s jeans, socks, new adult underwear, flash drives, pocket calendars, prepaid cell phones and minutes",
     "address": "900 Hopper St., Petaluma",
     "email": "N/A",
-    "phone": "(707) 765-6530 Ext. 111",
-    "other": "Call for more information about what this group’s current needs are. Bring items to the Mary Isaak Center at 900 Hopper St. on weekends from 7 a.m. to 7 p.m. Food inquiries can be made at (707) 765-6530 Ext. 131. Other calls should go to (707) 765-6530 Ext. 111."
+    "phone": "(707) 765-6530 Ext. 111"
   },
   {
     "organization": "Ritter Center",
@@ -241,8 +247,7 @@
     "items_needed": "canned and sealed food, tuna fish, peanut butter, canned chili, chunky soups, pasta, pasta sauce, toiletry items, small soaps, shampoos/conditioners, shaving cream, toothbrushes/toothpaste, new sleeping bags, new socks in adult sizes, belts and shoelaces, new or gently used hiking shoes or camping-size backpacks",
     "address": "16 Ritter St., San Rafael",
     "email": "N/A",
-    "phone": "(415) 457-8182 Ext. 109",
-    "other": "Drop off donations at 16 Ritter St., San Rafael, during the week from 9 a.m. to 4 p.m."
+    "phone": "(415) 457-8182 Ext. 109"
   },
   {
     "organization": "Social Advocates for Youth",
@@ -252,7 +257,7 @@
     "items_needed": "tarps, sleeping bags, Santa Rosa and Sonoma County bus passes, movie passes to local theaters, grocery and gas cards, gift cards to Target and Big 5, backpacks (pencils, pens, notebooks, reusable water bottles), health and outdoor items, garden equipment, sports equipment",
     "address": "2447 Summerfield Road, Santa Rosa (admin), 1243 Ripley St., Santa Rosa (Dr. Coffee Teen Shelter)",
     "email": "stephanie@saysc.org",
-    "phone": "(707) 544-3299, (707) 800-3967"
+    "phone": "(707) 544-3299"
   },
   {
     "organization": "The Living Room",
@@ -262,8 +267,7 @@
     "items_needed": "diapers (sizes 4, 5 &amp; 6), baby wipes, educational books, underwear, socks, shoes, umbrellas, raincoats, stroller covers, pocket warmers, bike locks and helmets, flashlights, reusable water bottles, hygiene supplies, gloves and pocket calendars",
     "address": "1207 Cleveland Ave., Santa Rosa",
     "email": "info@thelivingroomsc.org",
-    "phone": "(707) 579-0138 Ext. 0",
-    "other": "donations accepted Tuesdays and Thursdays from 10 a.m. to 3 p.m. at 69 Carrillo St."
+    "phone": "(707) 579-0138 Ext. 0"
   },
   {
     "organization": "Abode Services/Housing First",
@@ -283,8 +287,7 @@
     "items_needed": "canned tuna and chicken, canned veggies and fruit, flour, cornmeal, oatmeal, and pancake batter, pasta, sugar, cooking oil and vinegar, bedding, hygiene kits, cleaning supplies",
     "address": "2114 Macdonald Ave., Richmond",
     "email": "N/A",
-    "phone": "(510) 215-4887",
-    "other": "Drop off donations at 123 Macdonald Ave., Richmond"
+    "phone": "(510) 215-4887"
   },
   {
     "organization": "Building Futures",
@@ -344,7 +347,7 @@
     "items_needed": "gift cards to grocery stores, toiletries, twin-size linens, blankets, pillows, cleaning supplies, gently used clothing",
     "address": "200 Harrison St., Oakland, CA 94607",
     "email": "info@covenanthousecalifornia.org",
-    "phone": "(510) 379-1008, (510) 379-1010"
+    "phone": "(510) 379-1008"
   },
   {
     "organization": "Davis Street Resource Center",
@@ -364,8 +367,7 @@
     "items_needed": "food and household items",
     "address": "3610 San Pablo Ave., Emeryville",
     "email": "N/A",
-    "phone": "(510) 499-1263",
-    "other": "Drop off donations at 3610 San Pablo Ave., Emeryville."
+    "phone": "(510) 499-1263"
   },
   {
     "organization": "Life House Recovery Homes Inc.",
@@ -385,8 +387,7 @@
     "items_needed": "Baby clothes in sizes 0-12 months.",
     "address": "N/A",
     "email": "info@lovedtwice.org",
-    "phone": "N/A",
-    "other": "more than 20 drop-off locations are listed on the website."
+    "phone": "N/A"
   },
   {
     "organization": "Monument Crisis Center",
@@ -506,8 +507,7 @@
     "items_needed": "food pantry items, bottled water or Gatorade, soups, stews, chili, canned meats, fruit, fruit cups, crackers, paper goods, BART tickets and office equipment",
     "address": "1924 Trinity Ave., Walnut Creek",
     "email": "info@trinitycenterwc.org",
-    "phone": "(925) 949-8712",
-    "other": "Food donations are accepted on Thursdays between 10 a.m. and 3 p.m.; clothing donations are accepted on Mondays between 10 a.m. and 3 p.m."
+    "phone": "(925) 949-8712"
   },
   {
     "organization": "Wardrobe for Opportunity",
@@ -577,8 +577,7 @@
     "items_needed": "laundry pods, undergarments, bathroom cleaning supplies, linens, pillows and more",
     "address": "1854 Bay Road, East Palo Alto",
     "email": "info@projectwehope.com",
-    "phone": "(650) 330-8000",
-    "other": "email info@projectwehope.com to schedule a donation drop-off"
+    "phone": "(650) 330-8000"
   },
   {
     "organization": "St. Joseph's Family Center",
