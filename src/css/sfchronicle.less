@@ -509,7 +509,9 @@ header {
 }
 
 // don't miss ------------------------------------------
-
+  .entry a {
+    color: #EC1C24;
+  }
 .dont-miss {
   .display-flex;
   .flex-wrap(wrap);
@@ -518,6 +520,18 @@ header {
   font-family: @block-graphics;
   @media @mobile {
     margin-bottom: 40px;
+  }
+
+  h4 {
+    margin-top: 2px;
+    line-height: 1.2;
+    font-size: 0.9em;
+    color: #333;
+
+    @media @mobile{
+      font-size:0.7em;
+      line-height:1.4;
+    }
   }
 
   .story {
@@ -529,6 +543,10 @@ header {
   }
   .padded {
     padding: 10px;
+
+    @media @mobile{
+      padding:5px;
+    }
   }
   .small {
     font-weight: bold;
@@ -536,6 +554,12 @@ header {
   }
   img {
     width: 100%;
+  }
+}
+
+.group{
+  p{
+  margin-bottom:0;
   }
 }
 
