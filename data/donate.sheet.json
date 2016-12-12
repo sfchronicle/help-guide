@@ -10,6 +10,16 @@
     "phone": "(415) 561-5533"
   },
   {
+    "organization": "Catholic Charities of San Francisco",
+    "location": "SF",
+    "description": "Through shelter programs, housing subsidies, eviction prevention services and permanent supportive housing programs, Catholic Charities ensures vulnerable people have homes to provide a foundation to focus on restoring stability and hope.",
+    "website": "www.catholiccharitiessf.org/get-involved",
+    "items_needed": "Gift cards, culturally appropriate food baskets, donation of a hot meal or baked goods, sponsor a family for the holidays",
+    "address": "990 Eddy St., San Francisco, CA 94109",
+    "email": "moreinfo@CatholicCharitiesSF.org",
+    "phone": "(415) 972-1200"
+  },
+  {
     "organization": "Coalition on Homelessness",
     "location": "SF",
     "description": "The Coalition on Homelessness is an advocacy organization protecting the human rights of those forced to remain on the streets.",
@@ -240,6 +250,16 @@
     "phone": "(707) 765-6530 Ext. 111"
   },
   {
+    "organization": "DrawBridge: An Arts Program for Homeless Children",
+    "location": "NB",
+    "description": "This organization provides art programs for homeless and other underserved children where they live, creating an environment that fosters creativity, joy, self-confidence and hope.  ",
+    "website": "www.drawbridge.org",
+    "items_needed": "Art supplies, paper, paints, crayons, scissors, etc.",
+    "address": "P.O. Box 2698, San Rafael, CA 94912",
+    "email": "julie@drawbridge.org",
+    "phone": "(415) 640-4047"
+  },
+  {
     "organization": "Ritter Center",
     "location": "NB",
     "description": "This nonprofit provides health and social services to individuals and families in Marin County.",
@@ -270,13 +290,13 @@
     "phone": "(707) 579-0138 Ext. 0"
   },
   {
-    "organization": "Abode Services/Housing First",
+    "organization": "Abode Services",
     "location": "EB",
-    "description": "This group focuses on providing permanent housing in Santa Clara, Alameda, Santa Cruz and San Mateo counties.",
-    "website": "http://www.abodeservices.org",
+    "description": "This organization is working to end homelessness in Santa Clara, Alameda, Santa Cruz, and San Mateo counties.",
+    "website": "www.abodeservices.org",
     "items_needed": "new clothing, food, furniture, household items and vehicles",
     "address": "40849 Fremont Blvd., Fremont",
-    "email": "jmorgan@adobeservices.org",
+    "email": "jmorgan@abodeservices.org",
     "phone": "(510) 657-7409"
   },
   {
@@ -308,6 +328,16 @@
     "address": "1918 University Ave. #2A, Berkeley",
     "email": "gaustin@self-sufficiency.org",
     "phone": "(510) 649-1930 Ext. 1001"
+  },
+  {
+    "organization": "Community Education Partnerships",
+    "location": "EB",
+    "description": "This nonprofit provides educational support to children who have been affected by homelessness.",
+    "website": "www.calcep.org",
+    "items_needed": "School supplies, tablets, multicultural children's books",
+    "address": "P.O. Box 5632, Berkeley, CA 94705",
+    "email": "info@calcep.org",
+    "phone": "(510) 903-1063"
   },
   {
     "organization": "Christmas for Everyone",
@@ -468,6 +498,16 @@
     "address": "1660 Portola Ave., Livermore, CA 94551",
     "email": "jgandara@shepherdsgate.org",
     "phone": "(888) 216-4776"
+  },
+  {
+    "organization": "SHELTER, Inc. of Contra Costa County",
+    "location": "EB",
+    "description": "This nonprofit provides low-income and homeless families and individuals with housing and resources they need to become self-sufficient.",
+    "website": "www.shelterinc.org",
+    "items_needed": "Diapers size 4, 5 and 6. Toilet paper, paper towels, dish soap, hand soap, bar soap and laundry detergent.",
+    "address": "1333 Willow Pass Rd., Suite 206, Concord, CA 94520",
+    "email": "N/A",
+    "phone": "(925) 335-0698"
   },
   {
     "organization": "St. Mary's Center",

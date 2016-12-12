@@ -20,6 +20,16 @@
     "phone": "(415) 282-1907 Ext. 375"
   },
   {
+    "organization": "Catholic Charities of San Francisco",
+    "location": "SF",
+    "description": "Through shelter programs, housing subsidies, eviction prevention services and permanent supportive housing programs, Catholic Charities ensures vulnerable people have homes to provide a foundation to focus on restoring stability and hope.",
+    "website": "www.catholiccharitiessf.org/get-involved",
+    "volunteer": "Go to www.catholiccharitiessf.org/all-opportunities",
+    "address": "990 Eddy St., San Francisco, CA 94109",
+    "email": "moreinfo@CatholicCharitiesSF.org",
+    "phone": "(415) 972-1200"
+  },
+  {
     "organization": "Children of Shelters",
     "location": "SF",
     "description": "This group offers unique educational opportunities, cultural experiences and enrichment activities.",
@@ -330,6 +340,16 @@
     "phone": "(707) 765-6530 Ext. 111"
   },
   {
+    "organization": "DrawBridge: An Arts Program for Homeless Children",
+    "location": "NB",
+    "description": "This organization provides art programs for homeless and other underserved children where they live, creating an environment that fosters creativity, joy, self-confidence and hope.  ",
+    "website": "www.drawbridge.org",
+    "volunteer": "Help with weekly art groups, supporting and encouraging the children's creative explorations. A six-month commitment is requested.",
+    "address": "P.O. Box 2698, San Rafael, CA 94912",
+    "email": "julie@drawbridge.org",
+    "phone": "(415) 640-4047"
+  },
+  {
     "organization": "Homeward Bound of Marin",
     "location": "NB",
     "description": "This shelter program serves Marin County.",
@@ -370,13 +390,13 @@
     "phone": "(707) 579-0138 Ext. 0"
   },
   {
-    "organization": "Abode Services/Housing First",
+    "organization": "Abode Services",
     "location": "EB",
-    "description": "This group focuses on providing permanent housing in Santa Clara, Alameda, Santa Cruz and San Mateo counties.",
-    "website": "http://www.abodeservices.org",
-    "volunteer": "Serve on committees and their Board of Directors, prepare and serve meals, tutor and lead children's activities, help sort and store donated items, perform light cleaning and maintenance, provide office and front desk support, help during the holidays and special events, and more",
+    "description": "This organization is working to end homelessness in Santa Clara, Alameda, Santa Cruz, and San Mateo counties.",
+    "website": "www.abodeservices.org",
+    "volunteer": "Serve on committees and their Board of Directors, prepare and serve meals, help sort and store donated items, perform light cleaning and maintenance, and more: www.abodeservices.org/support_us/volunteers",
     "address": "40849 Fremont Blvd., Fremont",
-    "email": "N/A",
+    "email": "jmorgan@abodeservices.org",
     "phone": "(510) 657-7409"
   },
   {
@@ -478,6 +498,16 @@
     "address": "722 Washington St., Oakland",
     "email": "ateixeira@cityteam.org",
     "phone": "(510) 452-3758"
+  },
+  {
+    "organization": "Community Education Partnerships",
+    "location": "EB",
+    "description": "This nonprofit provides educational support to children who have been affected by homelessness.",
+    "website": "www.calcep.org",
+    "volunteer": "Volunteers needed to provide weekly one-on-one tutoring and mentoring to PK-12 students.",
+    "address": "P.O. Box 5632, Berkeley, CA 94705",
+    "email": "info@calcep.org",
+    "phone": "(510) 903-1063"
   },
   {
     "organization": "Contra Costa Crisis Center",
@@ -639,14 +669,14 @@
     "phone": "(510) 574-2250 Ext.106"
   },
   {
-    "organization": "Society of St. Vincent de Paul of Alameda County",
+    "organization": "SHELTER, Inc. of Contra Costa County",
     "location": "EB",
-    "description": "This group offers shelter, food and support to people in need.",
-    "website": "http://www.svdp-alameda.org",
-    "volunteer": "dining room/kitchen, help desk, and other opportunities",
-    "address": "2272 San Pablo Ave., Oakland",
-    "email": "volunteer@svdp-alameda.org",
-    "phone": "(510) 638-7600"
+    "description": "This nonprofit provides low-income and homeless families and individuals with housing and resources they need to become self-sufficient.",
+    "website": "www.shelterinc.org",
+    "volunteer": "Provide and serve meals at our emergency family shelter in Martinez.",
+    "address": "1333 Willow Pass Rd., Suite 206, Concord, CA 94520",
+    "email": "N/A",
+    "phone": "(925) 335-0698"
   },
   {
     "organization": "Shepherd's Gate",
@@ -657,6 +687,16 @@
     "address": "1660 Portola Ave., Livermore, CA 94551",
     "email": "jgandara@shepherdsgate.org",
     "phone": "(888) 216-4776"
+  },
+  {
+    "organization": "Society of St. Vincent de Paul of Alameda County",
+    "location": "EB",
+    "description": "This group offers shelter, food and support to people in need.",
+    "website": "http://www.svdp-alameda.org",
+    "volunteer": "dining room/kitchen, help desk, and other opportunities",
+    "address": "2272 San Pablo Ave., Oakland",
+    "email": "volunteer@svdp-alameda.org",
+    "phone": "(510) 638-7600"
   },
   {
     "organization": "St. Mary's Center",
