@@ -638,5 +638,15 @@
     "address": "725 Kifer Road, Sunnyvale, CA 94086",
     "email": "info@svcommunityservices.org",
     "phone": "(408) 738-4321"
+  },
+  {
+    "organization": "Operation Dignity",
+    "location": "EB",
+    "description": "An East Bay organization that provides housing and services to homeless veterans, as well as conducting street outreach to homeless encampments in Oakland and Alameda.",
+    "website": "www.operationdignity.org",
+    "items_needed": "Socks,  prepared bagged lunches, sponsor veterans moving into housing",
+    "address": "3850 San Pablo Ave., Ste. 102, Emeryville CA 94608",
+    "email": "kderrig@operationdignity.org",
+    "phone": "(510) 287-8465"
   }
 ]
