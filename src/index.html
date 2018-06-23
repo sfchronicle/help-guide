@@ -25,10 +25,10 @@
 
     <div class="container">
       <div class="headline">
-      <div class="hand-logo"><img src="./assets/photos/bg.jpg"></div>
-        <p class="brand"><a href="https://projects.sfchronicle.com/sf-homeless/">Beyond Homelessness</a></p>
-        <h1>Bay Area's Helping Hands</h1>
-        <p class="deck">A directory of nonprofit groups that need donations of specific items or volunteer help. To add your nonprofit to the list, email <a href="mailto:sfhomelessproject@gmail.com?subject=Beyond Homelessness: How to help guide">sfhomelessproject@gmail.com</a>.</p>
+        <p class="brand"><a href="https://projects.sfchronicle.com/sf-homeless/">SF Homeless Project</a></p>
+        <div class="top-logo"><img src="../assets/help.jpg" alt="How to help"></div>
+        <div class="hand-logo"><img src="../assets/hands.jpg" alt="How to help"></div>
+        <p class="deck">A directory of nonprofit groups that need donations of specific items or volunteer help. To add your nonprofit to the list, email <a href="mailto:sfhomelessproject@gmail.com?subject=SF Homeless Project: How to help guide">sfhomelessproject@gmail.com</a>.</p>
       </div>
       <div id="btn-group">
         <button id="btn-volunteer" class="btn disabled widget">VOLUNTEER</button>
@@ -84,6 +84,7 @@
           <button class="small-btn" id="sb-v">South Bay</button>
           <button class="small-btn disabled" id="all-v">Show all</button>
         </div>
+
         <table id="volunteer" class="display responsive" cellspacing="0" width="100%">
           <thead>
             <tr>
@@ -126,8 +127,8 @@
             }
         ],
         ordering:false,
-        scrollY: "500px",
-        paging:true,
+        // scrollY: "500px",
+        paging:false,
          responsive: {
             details: {
                 display: $.fn.dataTable.Responsive.display.childRowImmediate,
@@ -143,9 +144,10 @@
                 "visible": false
             }
         ],
+        dom: '<"top"i flp>rt<"bottom"><"clear">',
         ordering:false,
-        scrollY: "500px",
-        paging:true,
+        // scrollY: "500px",
+        paging:false,
          responsive: {
             details: {
                 display: $.fn.dataTable.Responsive.display.childRowImmediate,

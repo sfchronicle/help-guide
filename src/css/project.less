@@ -53,6 +53,10 @@ body{
 
   a{
     color: #ec1c24;
+    font-family: Lora;
+    font-weight: bold;
+    text-transform: none;
+    letter-spacing: 1px;
   }
 
   &.widget{
@@ -257,6 +261,18 @@ td[tabindex='0'] {
   }
 }
 
+.top-logo{
+  margin:0 auto;
+  max-width:250px;
+
+  @media @mobile{
+    max-width:150px;
+  }
+  img{
+    width:100%;
+  }
+}
+
 table.dataTable tbody tr {
   @media @mobile{
     font-size:0.7em;
@@ -267,9 +283,8 @@ table.dataTable tbody tr {
   width: 100%;
   display:block;
   text-align: center;
-  font-family: DispatchLight;
+  font-family: @banner;
   letter-spacing: 1px;
-  text-transform: uppercase;
   font-size: 0.8em;
 
   a{
@@ -286,6 +301,10 @@ table.dataTable tbody tr {
 }
 
 .dont-miss{
+
+  h4{
+    font-family: @df-sans;
+  }
   &.two{
   margin:0 auto;
   max-width:1000px;
