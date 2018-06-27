@@ -2,8 +2,8 @@
   {
     "organization": "A Home Away From Homelessness",
     "location": "SF",
-    "description": "A Home Away From Homelessness is an after school program that serves homeless and formerly homeless youth in San Francisco.",
-    "website": "http://www.homeaway.org/get-involved/donate",
+    "description": "A Home Away From Homelessness is an after-school program that serves homeless and formerly homeless youths in San Francisco.",
+    "website": "http://www.homeaway.org",
     "items_needed": "School supplies (2½-inch binders, calculators such as T83 and 89 models), clothes (especially athletic gear and shoes), cleaning supplies for their facilities, and recreational items such as kites or tents",
     "address": "Fort Mason, Building 33, San Francisco",
     "email": "admin@homeaway.org",
@@ -17,7 +17,7 @@
     "items_needed": "Food, new clothing, furniture, household items ",
     "address": "588 Brown Rd., Fremont",
     "email": "jmorgan@abodeservices.org",
-    "phone": "510-252-0910 ex 804"
+    "phone": "510-252-0910, ext. 804"
   },
   {
     "organization": "Bay Area Rescue Mission",
@@ -34,7 +34,7 @@
     "location": "EB",
     "description": "This group provides a comprehensive range of housing, food, and support services to help those in need move from homelessness into a safe and affordable home of their own.",
     "website": "http://bfhp.org/get-involved/in-kind-donations/",
-    "items_needed": "Energy bars, nutritional drinks, socks, NEW twin-size bedding (see website link for full wish list)",
+    "items_needed": "Energy bars, nutritional drinks, socks, new twin-size bedding (see website link for full wish list)",
     "address": "1901 Fairview St., Berkeley",
     "email": "info@bfhp.org",
     "phone": "510-318-6606"
@@ -47,17 +47,17 @@
     "items_needed": "New socks and underclothes for adults and children, towels, twin-size sheets, cleaning supplies, toilet tissue",
     "address": "1395 Bancroft Ave., San Leandro",
     "email": "N/A",
-    "phone": "510-357-0205 Ext. 205"
+    "phone": "510-357-0205, ext. 205"
   },
   {
     "organization": "Building Opportunities for Self Sufficiency",
     "location": "EB",
     "description": "Building Opportunities for Self Sufficiency provides housing, employment, mental health services and violence prevention solutions.",
     "website": "http://www.self-sufficiency.org",
-    "items_needed": "Computers/laptops, TVs/DVD players, towels & toiletries, kitchen & cooking utensils, new socks & underwear, linens/bedding (twin), office supplies, t-shirts (larger sizes), furniture & houseware",
+    "items_needed": "Computers/laptops, TVs/DVD players, towels and toiletries, kitchen and cooking utensils, new socks and underwear, linens/bedding (twin), office supplies, T-shirts (larger sizes), furniture and houseware",
     "address": "1918 University Ave. #2A, Berkeley",
     "email": "gaustin@self-sufficiency.org",
-    "phone": "510-649-1930 Ext. 1001"
+    "phone": "510-649-1930, ext. 1001"
   },
   {
     "organization": "Catholic Charities of San Francisco",
@@ -74,17 +74,17 @@
     "location": "SF",
     "description": "Children of Shelters offers unique educational opportunities, cultural experiences and enrichment activities.",
     "website": "http://www.childrenofshelters.org",
-    "items_needed": "Cash donations or event ticket purchases",
+    "items_needed": "Event ticket purchases",
     "address": "2269 Chestnut St., Box 439, San Francisco",
     "email": "volunteer@childrenofshelters.org",
-    "phone": "(925-935-9938"
+    "phone": "415-805-8579"
   },
   {
     "organization": "Cityteam",
     "location": "SB",
-    "description": "This organization provides food, shelter, clothing, training, and spiritual transformation. These programs help to address poverty and homelessness in San Jose, San Francisco, and Oakland by caring for immediate needs and enabling lasting solutions. ",
+    "description": "Cityteam provides food, shelter, clothing, training and spiritual transformation. These programs help to address poverty and homelessness in San Jose, San Francisco and Oakland by caring for immediate needs and enabling lasting solutions. ",
     "website": "http://www.cityteam.org",
-    "items_needed": "Gently used clothing, travel size toiletries, nonperishable food ",
+    "items_needed": "Gently used clothing, travel-size toiletries, nonperishable food ",
     "address": "2304 Zanker Rd., San Jose",
     "email": "info@cityteam.org",
     "phone": "408-232-5600"
@@ -92,7 +92,7 @@
   {
     "organization": "Coalition on Homelessness",
     "location": "SF",
-    "description": "Cityteam provides food, shelter, clothing, training, and spiritual transformation. These programs help to address poverty and homelessness in San Jose, San Francisco, and Oakland by caring for immediate needs and enabling lasting solutions. ",
+    "description": "Coalition on Homelessness is an advocacy organization that works to protect the human rights of those forced to remain on the streets.",
     "website": "http://www.cohsf.org/",
     "items_needed": "New Mac computers, basic software",
     "address": "468 Turk St., San Francisco",
@@ -104,10 +104,10 @@
     "location": "NB",
     "description": "COTS offers comprehensive services in hopes of breaking the cycle of homelessness.",
     "website": "http://www.cots-homeless.org",
-    "items_needed": "feminine products, men’s jeans, socks, new adult underwear, flash drives, pocket calendars, prepaid cell phones and minutes",
+    "items_needed": "Feminine products, men’s jeans, socks, new adult underwear, flash drives, pocket calendars, prepaid cell phones and minutes",
     "address": "900 Hopper St., Petaluma",
     "email": "N/A",
-    "phone": "707-765-6530 Ext. 111"
+    "phone": "707-765-6530, ext. 111"
   },
   {
     "organization": "Community Action North Bay",
@@ -117,7 +117,7 @@
     "items_needed": "Food pantry items (cooking oil, ground beef, milk, cheese, eggs, healthy grains/beans, canned vegetables, fresh fruit and vegetables), housing items (bedding, blankets, sheet sets, pillows, hygiene kits), toiletries, underwear/socks, flashlights, travel-size hygiene kits",
     "address": "416 Union Ave., Fairfield",
     "email": "info@canbinc.org",
-    "phone": "707-427-1148 Ext. 112"
+    "phone": "707-427-1148, ext. 112"
   },
   {
     "organization": "Community Education Partnerships",
@@ -125,24 +125,24 @@
     "description": "Community Education Partnerships provides educational support to children who are experiencing, or have been affected by, homelessness.",
     "website": "http://www.cep.ngo/",
     "items_needed": "School supplies, tablets, multicultural children's books",
-    "address": "P.O. Box 5632, Berkeley",
+    "address": "P.O. Box 5632, Berkeley, CA 94705",
     "email": "info@cep.ngo",
     "phone": "510-903-1063"
   },
   {
     "organization": "Compass Family Services",
     "location": "SF",
-    "description": "Compass Family Services has been helping families facing homelessness transition from crisis to economic stability since 1914. They working with nearly 4,000 homeless and at-risk parents and children each year, providing services needed to help achieve family well-being, self-sufficiency and become stably housed. ",
+    "description": "Compass Family Services has been helping families facing homelessness transition from crisis to economic stability since 1914. They work with nearly 4,000 homeless and at-risk parents and children each year, providing services needed to help achieve family well-being and self-sufficiency and become stably housed. ",
     "website": "http://www.compass-sf.org",
-    "items_needed": "New or used iPads or tablets, diapers, travel-size toiletries, new socks and underwear, school and craft supplies, canned and other nonperishable food items, feminine hygiene products, new and gently used clothing, shoes, strollers and vehicles.",
+    "items_needed": "New or used iPads or tablets, diapers, travel-size toiletries, new socks and underwear, school and craft supplies, canned and other nonperishable food items, feminine hygiene products, new and gently used clothing, shoes, strollers and vehicles",
     "address": "49 Powell St., 3rd Floor, San Francisco",
     "email": "nnguyen@compass-sf.org",
-    "phone": "415-644-0504 Ext. 1112"
+    "phone": "415-644-0504, ext. 1112"
   },
   {
     "organization": "Conard House",
     "location": "SF",
-    "description": "The focus of Conard House  is serving adults rendered homeless by serious mental health conditions. They offer permanent Supportive Housing to 707 residents living in 8 multi-unit residential communities in San Francisco. They also offer supportive money management to their residents and another 812 clients with similar needs but living in other San Francisco housing. ",
+    "description": "The focus of Conard House is serving adults rendered homeless by serious mental health conditions. They offer permanent supportive housing to 707 residents living in eight multi-unit residential communities in San Francisco. They also offer supportive money management to their residents and another 812 clients with similar needs but living in other San Francisco housing. ",
     "website": "http://www.conard.org",
     "items_needed": "Please call for an update on most current needs",
     "address": "2441 Jackson St., San Francisco",
@@ -172,7 +172,7 @@
   {
     "organization": "Covenant House California",
     "location": "EB",
-    "description": "Covenant House California is a shelter for homeless youth ages 18 to 24, many of whom have been abandoned by their families or aged out of the foster care system.",
+    "description": "Covenant House California is a shelter for homeless youths ages 18 to 24, many of whom have been abandoned by their families or aged out of the foster care system.",
     "website": "http://www.covenanthousecalifornia.org",
     "items_needed": "Gift cards to grocery stores, toiletries, twin-size linens, blankets, pillows, cleaning supplies, gently used clothing",
     "address": "200 Harrison St., Oakland",
@@ -182,7 +182,7 @@
   {
     "organization": "Davis Street Family Resource Center",
     "location": "EB",
-    "description": "Davis Street Resource Center provides emergency food, clothing, childcare services and medical, dental and counseling services through our Primary Care Clinic, all available to residents of San Leandro, San Lorenzo, Ashland, Cherryland and Castro Valley. ",
+    "description": "Davis Street Resource Center provides emergency food, clothing, child care services and medical, dental and counseling services through our Primary Care Clinic, all available to residents of San Leandro, San Lorenzo, Ashland, Cherryland and Castro Valley. ",
     "website": "http://www.davisstreet.org",
     "items_needed": "Backpacks and classroom supplies",
     "address": "3081 Teagarden St., San Leandro",
@@ -194,10 +194,10 @@
     "location": "SF",
     "description": "Delivering Innovation in Supportive Housing provides permanent housing to people suffering serious health issues. DISH is a project of Tides.",
     "website": "http://www.dishsf.org",
-    "items_needed": "Coordinated bulk donations of new items are preferred, pease call for details",
+    "items_needed": "Coordinated bulk donations of new items are preferred, please call for details",
     "address": "123 10th St., San Francisco (Main Office)",
     "email": "rahwameharena@dishsf.org",
-    "phone": "415-776-3474 Ext. 107",
+    "phone": "415-776-3474, ext. 107",
     "undefined": "(415) 776-3474 Ext. 107"
   },
   {
@@ -208,14 +208,14 @@
     "items_needed": "Industrial kitchen supplies, first aid supplies, men’s and women’s clothing (winter and summer), socks and underwear, and men’s and women’s hygiene and toiletry products",
     "address": "938 Valencia St., San Francisco",
     "email": "info@dscs.org",
-    "phone": "415-282-6209 Ext. 118"
+    "phone": "415-282-6209, ext. 118"
   },
   {
     "organization": "Downtown Streets Team",
     "location": "SF",
     "description": "Downtown Streets Team aims to end homelessness by putting people to work, allowing them to earn work experience in exchange for stipends and other assistance.",
     "website": "http://www.streetsteam.org",
-    "items_needed": "Items needed include gift cards, interview clothes, and employment opportunities. ",
+    "items_needed": "Interview clothes and gift cards ",
     "address": "65 Ninth St., San Francisco",
     "email": "brandon@streetsteam.org",
     "phone": "224-715-6038"
@@ -226,25 +226,25 @@
     "description": "DrawBridge provides art programs for homeless and other underserved children where they live, creating an environment that fosters creativity, joy, self-confidence and hope.",
     "website": "http://www.drawbridge.org",
     "items_needed": "Art supplies, paper, paints, crayons, scissors, etc.",
-    "address": "P.O. Box 2698, San Rafael",
+    "address": "P.O. Box 2698, San Rafael, CA 94912",
     "email": "julie@drawbridge.org",
     "phone": "415-640-4047"
   },
   {
-    "organization": "Eden I & R, Inc.",
+    "organization": "East Oakland Collective",
     "location": "EB",
-    "description": "Eden I & R, Inc. is a centralized source of health, housing and human services information in Alameda County and is the operator of 211 Alameda County, the free, 3-digit phone number for 24/7 multilingual assistance with referrals to health, housing and human services. 211 is the countywide call center for the Coordinated Entry System, to assist those living in homelessness. ",
-    "website": "http://www.edenir.org",
-    "items_needed": "Monetary donations or donations of gift cards",
-    "address": "570 B. St., Hayward",
-    "email": "info@edenir.org",
-    "phone": "510-537-2710"
+    "description": "Community organizing group run by \"milennials-plus,\" serving \"deep East Oakland.\" Works towards racial and economic equality. Works in housing for the homelessness.",
+    "website": "http://www.eastoaklandcollective.com",
+    "items_needed": "Hygine supplies, non-perishable food (excluding canned goods), monetary donations to purchase additional food and supplies",
+    "address": "P.O. Box 5382, Oakland, CA 94605",
+    "email": "info@eastoaklandcollective.com",
+    "phone": "510-394-2903"
   },
   {
     "organization": "Emeryville Citizens Assistance Program",
     "location": "EB",
     "description": "Emeryville Citizens Assistance Program focuses on Emeryville residents, providing food, coats, blankets, household items and referral services.",
-    "website": "http://www.ecaprogram.org",
+    "website": "n/a",
     "items_needed": "Food and household items",
     "address": "3610 San Pablo Ave., Emeryville",
     "email": "N/A",
@@ -253,19 +253,19 @@
   {
     "organization": "Episcopal Community Services San Francisco",
     "location": "SF",
-    "description": "Episcopal Community Services San Francisco operates a shelters, Navigation Centers, supportive housing, job training, adult education and senior services.",
+    "description": "Episcopal Community Services San Francisco operates shelters, Navigation Centers, supportive housing, job training, adult education and senior services.",
     "website": "http://www.ecs-sf.org/getinvolved/donate.html",
-    "items_needed": "Laundry detergent, disinfecting wipes, antibacterial hand wash, latex gloves, feminine products, incontinence pads, adult diapers, travel-size toiletries, toothbrushes and toothpaste, new-in-package men’s and women’s white athletic socks, new-in-package men’s and women’s T-shirts, books and DVDs",
+    "items_needed": "Laundry detergent, disinfecting wipes, antibacterial hand wash, latex gloves, feminine products, incontinence pads, adult diapers, travel-size toiletries, toothbrushes and toothpaste, new in-package men’s and women’s white athletic socks, new in-package men’s and women’s T-shirts, books and DVDs",
     "address": "165 Eighth St., 3rd Floor, San Francisco",
     "email": "slehman@ecs-sf.org",
-    "phone": "415-487-3300 Ext. 1247"
+    "phone": "415-487-3300, ext. 1247"
   },
   {
     "organization": "Family Supportive Housing",
     "location": "SB",
     "description": "Family Supportive Housing provides temporary shelter and support to families.",
     "website": "http://www.familysupportivehousing.org",
-    "items_needed": "new toys and clothes and gift cards",
+    "items_needed": "New toys and clothes and gift card",
     "address": "692 N. King Rd., San Jose",
     "email": "volunteer@familysupportivehousing.org",
     "phone": "408-926.8885"
@@ -273,7 +273,7 @@
   {
     "organization": "Farming Hope",
     "location": "SF",
-    "description": "Farming Hope hires homeless neighbors to perform garden and cooking work, providing part-time transitional employment and on-the-job training. They also share free meals and sell food at a pop up restaurant location near the Civic Center.",
+    "description": "Farming Hope hires homeless neighbors to perform garden and cooking work, providing part-time transitional employment and on-the-job training. They also share free meals and sell food at a pop-up restaurant near the Civic Center.",
     "website": "http://www.farminghope.org/",
     "items_needed": "Donate a seat at the community dinners to an unhoused neighbor, https://farminghope.org/donate/",
     "address": "555 Golden Gate Ave., San Francisco (on Thursday evenings)",
@@ -283,9 +283,9 @@
   {
     "organization": "Food Runners",
     "location": "SF",
-    "description": "Food Runners collects and delivers over 15 tons of food a week that would otherwise be thrown away.",
+    "description": "Food Runners collects and delivers more than 15 tons of food a week that would otherwise be thrown away.",
     "website": "http://www.foodrunners.org",
-    "items_needed": "Package your excess food and fill out the online donation form via their website, or leave a message at (415) 929-1866",
+    "items_needed": "Package your excess food and fill out the online donation form via their website, or leave a message at 415-929-1866",
     "address": "N/A",
     "email": "N/A",
     "phone": "415-929-1866"
@@ -293,7 +293,7 @@
   {
     "organization": "Glide Memorial Church",
     "location": "SF",
-    "description": "GLIDE Memorial Church provides food, access to healthcare, childcare, housing, jobs, a safe harbor, and unconditional love.",
+    "description": "Glide Memorial Church provides food, access to health care, child care, housing, jobs, a safe harbor and unconditional love.",
     "website": "http://www.glide.org",
     "items_needed": "Vehicles and new toys",
     "address": "330 Ellis St., San Francisco",
@@ -303,10 +303,10 @@
   {
     "organization": "Haight Ashbury Food Program",
     "location": "SF",
-    "description": "Haight Ashbury Food Program serves approximately 150 low income people and families in the area surrounding the 94117 zip code. They providing food from the local Food Bank and Trader Joe's.",
+    "description": "Haight Ashbury Food Program serves approximately 150 low-income people and families in the area surrounding the 94117 ZIP code. They provide food from the local food bank and Trader Joe's.",
     "website": "http://www.thefoodprogram.org",
     "items_needed": "Unopened food",
-    "address": "Mailing address: P.O. Box 170202, San Francisco, CA 94117. Location: 1525 Waller St., San Francisco",
+    "address": "1525 Waller St., San Francisco",
     "email": "hafppantry@gmail.com",
     "phone": "N/A"
   },
@@ -323,9 +323,9 @@
   {
     "organization": "Homeless Action Center",
     "location": "EB",
-    "description": "Homeless Action Center provides free public benefits advocacy to low income people in Alameda County.",
+    "description": "Homeless Action Center provides free public benefits advocacy to low-income people in Alameda County.",
     "website": "http://www.homelessactioncenter.org",
-    "items_needed": "Accepting donations of supplies for homeless encampment residents, including packages of new socks, clothing in good condition, new hygiene supplies, blankets, camping supplies (tents, sleeping bags, sleeping pads), and soft, non-perishable foods",
+    "items_needed": "Supplies for homeless encampment residents, including packages of new socks, clothing in good condition, new hygiene supplies, blankets, camping supplies (tents, sleeping bags, sleeping pads), and soft, non-perishable foods",
     "address": "3126 Shattuck Ave., Berkeley; 1432 Franklin St., Oakland; 2601 San Pablo Ave., Oakland",
     "email": "info@homelessactioncenter.org",
     "phone": "Berkeley 510-540-0878; Downtown Oakland 510-836-3260; West Oakland 510-695-2260"
@@ -335,7 +335,7 @@
     "location": "SF",
     "description": "Homeless Children's Network reduces the trauma of homelessness and domestic violence by providing mental health consultations and treatment. It also operates a resource center that offers training sessions on subjects such as parenting skills.",
     "website": "http://www.hcnkids.org",
-    "items_needed": "please call",
+    "items_needed": "Please call for an update on most current needs",
     "address": "3450 Third St., Building 1, Unit 1C, San Francisco",
     "email": "admin@hcnkids.org",
     "phone": "415-437-3990"
@@ -345,7 +345,7 @@
     "location": "SF",
     "description": "Homeless Prenatal Program targets the cycle of poverty through its family resource center, which helps women have healthy babies as well as building families that are both economically stable and nurturing.",
     "website": "http://www.homelessprenatal.org",
-    "items_needed": "New diapers, baby wipes, toiletries, formula and baby food, and gently used baby & children's clothes and books",
+    "items_needed": "New diapers, baby wipes, toiletries, formula and baby food, and gently used baby and children's clothes and books",
     "address": "2500 18th St., San Francisco",
     "email": "info@homelessprenatal.org",
     "phone": "415-546-6756"
@@ -383,9 +383,9 @@
   {
     "organization": "Lava Mae",
     "location": "SF/EB",
-    "description": "Lava Mae organization provides mobile showers and other critical services for people experiencing homelessness.",
+    "description": "Lava Mae provides mobile showers and other critical services for people experiencing homelessness.",
     "website": "http://www.lavamae.org",
-    "items_needed": "Financial donations can be made at https://lavamae.org/donate/. Items needed for in-kind donations include: shampoo, razors, deodorant, toothbrush , toothpaste , body wash , hair combs, t-shirts, underwear, clothing",
+    "items_needed": "Shampoo, razors, deodorant, toothbrush, toothpaste, body wash, hair combs, T-shirts, underwear, clothing",
     "address": "In-kind donations can be delivered to: 2000 Marin St., San Francisco",
     "email": "donations@lavamae.org",
     "phone": "415-872-6950"
@@ -393,22 +393,12 @@
   {
     "organization": "Life House Recovery Homes Inc.",
     "location": "EB",
-    "description": "Life House Recovery Homes consists of six Sober Living homes located throughout Alameda and County Contra Costa County.",
+    "description": "Life House Recovery Homes consists of six sober living homes throughout Alameda and Contra Costa counties.",
     "website": "http://www.lifehouserecovery.org/donations.html",
-    "items_needed": "They welcome donations of useable goods including vehicles, furniture, appliances and more. Pick up of items can be arranged by calling (510) 999-7901. ",
-    "address": "P.O. Box 758, Hayward",
+    "items_needed": "Usable goods including vehicles, furniture, appliances and more. Pick up of items can be arranged by calling 510-999-7901. ",
+    "address": "P.O. Box 758, Hayward, CA 94543",
     "email": "N/A",
     "phone": "510-999-7901"
-  },
-  {
-    "organization": "LifeMoves",
-    "location": "SB",
-    "description": "LifeMoves provides interim housing and supportive services for homeless families and individuals to rapidly return to stable housing and achieve long-term self-sufficiency",
-    "website": "http://www.lifemoves.org",
-    "items_needed": "Monetary donation that help with various programing needes, https://lifemoves.org/how-you-can-help/how-to-donate",
-    "address": "181 Constitution Dr., Menlo Park",
-    "email": "cloughlin@lifemoves.org",
-    "phone": "650-685-5880"
   },
   {
     "organization": "Loved Twice",
@@ -433,7 +423,7 @@
   {
     "organization": "North Beach Citizens",
     "location": "SF",
-    "description": "North Beach Citizens utilizes the talents of the community to innovatively address the needs of its homeless and low-income citizens in an atmosphere of trust, integrity, and respect. Since 2001, they have helped hundreds of our neighbors transition from homelessness to housing and from crisis to community.",
+    "description": "North Beach Citizens utilizes the talents of the community to innovatively address the needs of its homeless and low-income citizens in an atmosphere of trust, integrity and respect. Since 2001, the organization has helped hundreds transition from homelessness to housing and from crisis to community.",
     "website": "http://www.northbeachcitizens.org/",
     "items_needed": "Household items, toiletries, socks, undergarments, new and gently used clothing, especially men's pants",
     "address": "1034 Kearny Street, San Francisco, CA 94133",
@@ -446,9 +436,9 @@
     "description": "Oakland Elizabeth House is a shelter that serves homeless women and children.",
     "website": "http://www.oakehouse.org",
     "items_needed": "Gently worn clothes for all ages",
-    "address": "P.O. Box 1175, Berkeley",
+    "address": "P.O. Box 1175, Berkeley, CA 94701",
     "email": "oakehouse@oakehouse.org",
-    "phone": "510-658-1380 Ext. 205"
+    "phone": "510-658-1380, ext. 205"
   },
   {
     "organization": "Open Heart Kitchen",
@@ -458,7 +448,7 @@
     "items_needed": "Food in bulk and office supplies in bulk",
     "address": "1141 Catalina Drive #137, Livermore",
     "email": "operationsdirector@openheartkitchen.org, volunteercoordinator@openheartkitchen.org",
-    "phone": "925-580-1619, 925-580-6793, 925-580-1616 "
+    "phone": "925-580-6793"
   },
   {
     "organization": "Operation Dignity",
@@ -483,7 +473,7 @@
   {
     "organization": "Project Homeless Connect",
     "location": "SF",
-    "description": "PHC connects people experiencing and at-risk of homelessness to services by hosting large-scale events five times a year. Between events, they offer ongoing assistance through their Every Day Connect program. Services include medical, dental and vision care, as well as employment counseling, housing assistance and legal aid.",
+    "description": "PHC connects people experiencing and at risk of homelessness to services by hosting large-scale events five times a year. Between events, they offer ongoing assistance through their Every Day Connect program. Services include medical, dental and vision care, as well as employment counseling, housing assistance and legal aid.",
     "website": "http://www.projecthomelessconnect.org",
     "items_needed": "Warm outerwear (men’s sizes L-4XL only), cotton or wool socks (adult size L), adult sleeping bags, hygiene items, adult backpacks, granola bars, electronics, and household items (toasters, microwaves, etc.)",
     "address": "25 Van Ness Ave., Ste. 340",
@@ -508,7 +498,7 @@
     "items_needed": "Canned and sealed food, tuna fish, peanut butter, canned chili, chunky soups, pasta, pasta sauce, toiletry items, small soaps, shampoos/conditioners, shaving cream, toothbrushes/toothpaste, new sleeping bags, new socks in adult sizes, belts and shoelaces, new or gently used hiking shoes or camping-size backpacks",
     "address": "16 Ritter St., San Rafael",
     "email": "communications@rittercenter.org",
-    "phone": "415-457-8182 Ext. 109"
+    "phone": "415-457-8182, ext. 109"
   },
   {
     "organization": "Rubicon Programs",
@@ -525,7 +515,7 @@
     "location": "EB",
     "description": "Ruby's Place is a shelter that serves survivors of domestic violence and human trafficking.",
     "website": "http://www.rubysplace.org",
-    "items_needed": "Food, baby wipes, pillows, dish sets, flatware sets, kitchen utensils, pots & pans, trash bags (all sizes), new twin sheet sets, shampoo, deodorants, bar soaps, new twin warm blankets, towels, diapers all sizes, non-bleach cleaning products, Laundry pods, gift cards*, paper products, new clothing and shoes -- all sizes/genders, coloring books, crayons, children’s games/toys",
+    "items_needed": "Food, baby wipes, pillows, dish sets, flatware sets, kitchen utensils, pots and pans, trash bags (all sizes), new twin sheet sets, shampoo, deodorants, bar soaps, new twin warm blankets, towels, diapers all sizes, non-bleach cleaning products, Laundry pods, gift cards, paper products, new clothing and shoes -- all sizes/genders, coloring books, crayons, children’s games/toys",
     "address": "1180 B St., Hayward",
     "email": "info@rubysplace.org",
     "phone": "510-581-5626 "
@@ -535,7 +525,7 @@
     "location": "EB",
     "description": "SAVE provides shelter, support and educational opportunities to individuals and families.",
     "website": "http://www.save-dv.org",
-    "items_needed": "Items needed include: hair styling products and tools (new), towels and wash cloths (new), \r\ntoiletries, and gift cards clients (Ross, Marshall's, Target, Safeway). ",
+    "items_needed": "Hair styling products and tools (new), towels and washcloths (new), toiletries, and gift cards (Ross, Marshall's, Target, Safeway). ",
     "address": "1900 Mowry Ave., Ste 201, Fremont",
     "email": "donation@save-dv.org",
     "phone": "510-574-2250"
@@ -543,9 +533,9 @@
   {
     "organization": "San Francisco Community Clinic Consortium",
     "location": "SF",
-    "description": "San Francisco Community Clinic Consortium travels in a medical van to sites throughout San Francisco with dedicated SOS team of doctors, nurses, outreach workers, and volunteers who create “clinics without walls” at soup kitchens, on city streets, under freeway overpasses, and in parks. The Vet SOS (https://www.sfccc.org/veterinary-street-outreach-services-vetsos/) program provides free veterinary care to the companion animals of homeless San Franciscans and links their human guardians with health care services. ",
+    "description": "San Francisco Community Clinic Consortium travels in a medical van to sites throughout San Francisco with a dedicated SOS team of doctors, nurses, outreach workers and volunteers who create “clinics without walls” at soup kitchens, on city streets, under freeway overpasses, and in parks. The Vet SOS (https://www.sfccc.org/veterinary-street-outreach-services-vetsos/) program provides free veterinary care to the companion animals of homeless San Franciscans and links their human guardians with health care services. ",
     "website": "http://www.sfccc.org",
-    "items_needed": "Donation items needed include, warm jackets, rain gear, tarps, blankets, towels, sleeping bags, hats, scarves, gloves, socks, comfortable shoes, women’s casual clothing (all sizes), men’s casual clothing (all sizes), over-the-counter (nonprescription) medications, first aid supplies (bandages, gauze), hand sanitizer, travel-size toiletries, sewing kits, reading glasses",
+    "items_needed": "Warm jackets, rain gear, tarps, blankets, towels, sleeping bags, hats, scarves, gloves, socks, comfortable shoes, women’s casual clothing (all sizes), men’s casual clothing (all sizes), over-the-counter (nonprescription) medications, first aid supplies (bandages, gauze), hand sanitizer, travel-size toiletries, sewing kits, reading glasses",
     "address": "2720 Taylor St, Suite 430, San Francisco",
     "email": "SOS@sfccc.org",
     "phone": "415-355-2250"
@@ -555,7 +545,7 @@
     "location": "EB",
     "description": "Second Chance is an addiction recovery program that offers classes, case management and treatment planning.",
     "website": "http://www.secondchanceinc.com",
-    "items_needed": "Items needed include canned goods (vegetables specifically), new towels, twin bed sheets, and travel-size toiletries.",
+    "items_needed": "Canned goods (vegetables specifically), new towels, twin bed sheets, and travel-size toiletries",
     "address": "6330 Thornton Ave., Newark;107 Jackson St., Hayward",
     "email": "scbox643@aol.com",
     "phone": "510-792-4357"
@@ -563,7 +553,7 @@
   {
     "organization": "SF-Marin Food Bank",
     "location": "SF",
-    "description": "SF-Marin Food Bank's mission is to end hunger in San Francisco and Marin through From thier pantry network and home-delivered groceries, to our nutrition-education classes and food-stamp enrollment, they work in many ways to nourish and empower neighbors in need.",
+    "description": "SF-Marin Food Bank's mission is to end hunger in San Francisco and Marin. Through its pantry network and home-delivered groceries, nutrition-education classes and food-stamp enrollment, the organization works in many ways to nourish and empower neighbors in need.",
     "website": "http://www.sfmfoodbank.org",
     "items_needed": "Sealed food and beverages, excluding soda",
     "address": "900 Pennsylvania Ave., San Francisco, or 75 Digital Dr., Novato",
@@ -571,11 +561,11 @@
     "phone": "415-282-1900"
   },
   {
-    "organization": "SHELTER, Inc. of Contra Costa County",
+    "organization": "Shelter Inc. of Contra Costa County",
     "location": "EB",
-    "description": "SHELTER, Inc. of Contra Costa County provides low-income and homeless families and individuals with housing and resources they need to become self-sufficient.",
+    "description": "Shelter Inc. of Contra Costa County provides low-income and homeless families and individuals with housing and resources they need to become self-sufficient.",
     "website": "http://www.shelterinc.org",
-    "items_needed": "Diapers size 4, 5 and 6. Toilet paper, paper towels, dish soap, hand soap, bar soap and laundry detergent",
+    "items_needed": "Diapers (sizes 4, 5 and 6), toilet paper, paper towels, dish soap, hand soap, bar soap and laundry detergent",
     "address": "1333 Willow Pass Rd., Ste. 206, Concord",
     "email": "N/A",
     "phone": "925-335-0698"
@@ -583,7 +573,7 @@
   {
     "organization": "Shepherd's Gate",
     "location": "EB",
-    "description": "Shepherd’s Gate is a Christian nonprofit that offers both short-term and long-term and transitional programs tailored to the individual needs of the woman and child they serve. Programs include job-skills training, financial education, nutrition and health lessons, childcare, parenting classes and case management. ",
+    "description": "Shepherd’s Gate is a Christian nonprofit that offers both short-term and long-term and transitional programs tailored to the individual needs of the woman and child they serve. Programs include job-skills training, financial education, nutrition and health lessons, child care, parenting classes and case management. ",
     "website": "http://www.shepherdsgate.org",
     "items_needed": "Fresh meats and produce, full size personal care items, cleaning supplies, toilet paper and paper towels ",
     "address": "1660 Portola Ave., Livermore",
@@ -591,24 +581,14 @@
     "phone": "888-216-4776"
   },
   {
-    "organization": "Simply the Basics",
-    "location": "SF",
-    "description": "Simply the Basics provides basic needs, particularly hygiene products, to the community for improved health and wellness. Additional programs include healthy living classes and in-kind donation support to nonprofit partners. Simply the Basics is the first full-scale hygiene bank in the nation.",
-    "website": "http://www.simplythebasics.org",
-    "items_needed": "Monetary donations allow them to purchase reusable, mildew proof tote bags and needed items. You can also host a drive for unused products, contact Simply the Basics to learn more about their needs. ",
-    "address": "P.O. Box 591453, San Francisco",
-    "email": "admin@simplythebasics.org",
-    "phone": "N/A"
-  },
-  {
     "organization": "Social Advocates for Youth",
     "location": "NB",
-    "description": "Sonoma County’s at-risk youth are the focus of this group, which offers short-term, emergency and affordable housing as well as counseling and career-readiness programs.",
+    "description": "Sonoma County’s at-risk youths are the focus of this group, which offers short-term, emergency and affordable housing as well as counseling and career-readiness programs.",
     "website": "http://www.saysc.org",
     "items_needed": "Hygiene items such as full-size shampoo bottles, deodorant, and toothpaste; Santa Rosa and Sonoma County bus passes; movie passes to local theaters; grocery and gas cards; gift cards to Target and Big 5; school-ready backpacks filled with pencils, pens, notebooks, reusable water bottles, etc. ",
     "address": "2447 Summerfield Rd., Santa Rosa",
     "email": "volunteer@saysc.org",
-    "phone": "707-544-3299 x249"
+    "phone": "707-544-3299, ext. 249"
   },
   {
     "organization": "St. Anthony Foundation",
@@ -625,15 +605,15 @@
     "location": "SB",
     "description": "St. Joseph's Family Center operates a large food distribution pantry and hot meal program.",
     "website": "http://www.stjosephsgilroy.org",
-    "items_needed": "Turkeys, canned foods, adult socks, toys for children 10 years and younger and diapers.",
+    "items_needed": "Turkeys, canned foods, adult socks, toys for children 10 years and younger and diapers",
     "address": "7950 Church St., Gilroy",
     "email": "vickym@stjosephsgilroy.org",
-    "phone": "408-842-6662 Ext. 26"
+    "phone": "408-842-6662, ext. 26"
   },
   {
     "organization": "St. Mary's Center",
     "location": "EB",
-    "description": "Each year St. Mary's Center helps about 1,00 seniors living alone, operates a winter emergency shelter and a year-round drop-in center for homeless women; helps families who need groceries and operates a preschool for children in poverty.",
+    "description": "Each year St. Mary's Center helps about 1,000 seniors living alone, operates a winter emergency shelter and a year-round drop-in center for homeless women; helps families who need groceries and operates a preschool for children in poverty.",
     "website": "http://www.stmaryscenter.org",
     "items_needed": "New underwear, new clothes, women’s hygiene products, blankets",
     "address": "925 Brockhurst St., Oakland",
@@ -645,7 +625,7 @@
     "location": "EB",
     "description": "Society of St. Vincent de Paul of Alameda County offers shelter, food and support to people in need.",
     "website": "http://www.svdp-alameda.org",
-    "items_needed": "Funds, clothing  and toiletry items needed",
+    "items_needed": "Clothing  and toiletry items",
     "address": "2272 San Pablo Ave., Oakland",
     "email": "volunteer@svdp-alameda.org",
     "phone": "510-638-7600"
@@ -695,15 +675,15 @@
     "location": "NB",
     "description": "The Living Room gives women and children a place to rest during the day when shelters are closed.",
     "website": "http://www.thelivingroomsc.org",
-    "items_needed": "Diapers (sizes 4, 5 &amp; 6), baby wipes, educational books, underwear, socks, shoes, umbrellas, raincoats, stroller covers, pocket warmers, bike locks and helmets, flashlights, reusable water bottles, hygiene supplies, gloves and pocket calendars",
+    "items_needed": "Diapers (sizes 4, 5 and 6), baby wipes, educational books, underwear, socks, shoes, umbrellas, raincoats, stroller covers, pocket warmers, bike locks and helmets, flashlights, reusable water bottles, hygiene supplies, gloves and pocket calendars",
     "address": "1207 Cleveland Ave., Santa Rosa",
     "email": "info@thelivingroomsc.org",
-    "phone": "707-579-0138 Ext. 0"
+    "phone": "707-579-0138, ext. 0"
   },
   {
     "organization": "The Salvation Army",
     "location": "SF",
-    "description": "The Salvation Army, a human services faith based organization, serves the San Francisco Bay Area, helping to mitigate poverty through practical support, spiritual comfort and a holistic, critical safety net to people in need.",
+    "description": "The Salvation Army, a human services faith-based organization, serves the San Francisco Bay Area, helping to mitigate poverty through practical support, spiritual comfort and a holistic, critical safety net to people in need.",
     "website": "http://www.sanfrancisco.salvationarmy.org",
     "items_needed": "Clothing, furniture and household items",
     "address": "832 Folsom St., San Francisco (Divisional Headquarters)",
@@ -723,7 +703,7 @@
   {
     "organization": "Trinity Center",
     "location": "EB",
-    "description": "Trinity Center serves homeless and working poor adults in Walnut Creek. Services include; providing food, breakfast & hot lunch, showers and laundry, clothing, mail and telephone access, referral services, and help with benefit applications. ",
+    "description": "Trinity Center serves homeless and working poor adults in Walnut Creek. Services include; providing food, breakfast and hot lunch, showers and laundry, clothing, mail and telephone access, referral services, and help with benefit applications. ",
     "website": "http://www.trinitycenterwc.org",
     "items_needed": "Food pantry items, bottled water or Gatorade, soups, stews, chili, canned meats, fruit, fruit cups, crackers, paper goods, BART tickets and office equipment",
     "address": "1271 S California, Walnut Creek",
@@ -733,21 +713,20 @@
   {
     "organization": "Wardrobe for Opportunity",
     "location": "EB",
-    "description": "Wardrobe for Opportunity helps low income individuals find a job, keep a job, and build a career.",
+    "description": "Wardrobe for Opportunity helps low-income individuals find a job, keep a job and build a career.",
     "website": "http://www.wardrobe.org",
-    "items_needed": "Plus size professional clothing for men and women (women: 16+, men: 18+), men's dress shoes, women's flats size 9w+",
+    "items_needed": "Plus-size professional clothing for men and women (women: 16+, men: 18+), men's dress shoes, women's flats size 9w+",
     "address": "570 14th St., Oakland",
-    "email": "(510) 463-4100 x216",
-    "phone": "510-463-4100 Ext. 221"
+    "phone": "510-463-4100, ext. 221"
   },
   {
     "organization": "Youth Spirit Artworks",
     "location": "EB",
-    "description": "Youth Spirit Artworks  provides a job training program that serves at-risk and homeless youth, ages 16-25.",
-    "website": "http://www.youthspiritawards.org",
+    "description": "Youth Spirit Artworks provides a job training program that serves at-risk and homeless youths, ages 16-25.",
+    "website": "http://www.youthspiritartworks.org",
     "items_needed": "Food, snacks, juices, canvases, paints, brushes",
     "address": "1740 Alcatraz Ave., Berkeley",
-    "email": "info@youthspiritartworks.org",
+    "email": "admin@youthspiritartworks.org",
     "phone": "510-282-0396"
   }
 ]
