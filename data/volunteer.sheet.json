@@ -12,7 +12,7 @@
   {
     "organization": "Abode Services",
     "location": "EB",
-    "description": "Abode Services is working to end homelessness in Santa Clara, Alameda, Santa Cruz and San Mateo counties by securing permanent homes for individuals and families experiencing homelessness.",
+    "description": "Abode Services is working to end homelessness in Santa Clara, Alameda, Santa Cruz and San Mateo counties by securing permanent homes for individuals and families.",
     "website": "http://www.abodeservices.org",
     "volunteer": "Serve on committees and their Board of Directors, prepare and serve meals, help sort and store donated items, perform light cleaning and maintenance, and more: www.abodeservices.org/support_us/volunteers.",
     "address": "588 Brown Rd., Fremont",
@@ -194,7 +194,7 @@
     "location": "SF",
     "description": "Community Housing Partnership pairs affordable housing with resident and clinical support services, employment preparation, job training, a transitional employment social enterprise, and community organizing/resident engagement to empower community members and create a direct pathway from homelessness to self-sufficiency.",
     "website": "http://www.chp-sf.org",
-    "volunteer": "Assist with fundraising and special events, teach a resident classes and more.",
+    "volunteer": "A variety of engaging volunteer opportunities are available for both individuals as well as corporate groups – including, but not limited to, policy and program, assisting with fundraising and special events, and teaching resident classes.",
     "address": "20 Jones St., Ste. 200, San Francisco",
     "email": "info@chp-sf.org",
     "phone": "415-852-5300"
@@ -238,6 +238,16 @@
     "address": "200 Harrison St., Oakland",
     "email": "info@covenanthousecalifornia.org",
     "phone": "510-379-1008"
+  },
+  {
+    "organization": "Curry Senior Center",
+    "location": "SF",
+    "description": "Curry Senior Center provides health and social services to homeless and low-income San Francisco seniors. Services include health care, counseling, housing, meals, and socialization.",
+    "website": "http://www.curryseniorcenter.org/volunteer/",
+    "volunteer": "Volunteers are needed daily to plate and serve food and socialize with the seniors. The breakfast shift, runs from 7am -9am and lunch runs from 10am - 1pm.  Please call or email to volunteer.",
+    "address": "333 Turk St., San Francisco",
+    "email": "info@curryseniorcenter.org",
+    "phone": "415-292-1064 "
   },
   {
     "organization": "Davis Street Resource Center",
@@ -540,6 +550,16 @@
     "phone": "925-825-7751"
   },
   {
+    "organization": "North Beach Citizens",
+    "location": "SF",
+    "description": "North Beach Citizens is a nonprofit homeless resource center that provides housing referrals.",
+    "website": "http://www.northbeachcitizens.org/take-action",
+    "volunteer": "Assist with grants and in-office support.",
+    "address": "1034 Kearny St., San Francisco ",
+    "email": "admin@homeaway.org",
+    "phone": "415-772-0918"
+  },
+  {
     "organization": "Oakland Elizabeth House",
     "location": "EB",
     "description": "Oakland Elizabeth House is a shelter that serves homeless women and children.",
@@ -708,6 +728,16 @@
     "address": "2272 San Pablo Ave., Oakland",
     "email": "volunteer@svdp-alameda.org",
     "phone": "510-638-7600"
+  },
+  {
+    "organization": "Sonoma County Homeless Action!",
+    "location": "NB",
+    "description": "Sonoma County Homeless Action! is a grassroots group that works to protect the human rights of those forced to remain on the streets and to advocate for housing and other immediate solutions.",
+    "website": "https://www.facebook.com/Homeless-Action-379217005553363/",
+    "volunteer": "Outreach to homeless people, research, policy development, committee work with others who aren't waiting for someone else to provide the answers.",
+    "address": "1 Kingston Way, Cotati",
+    "email": "HomelessActionSoCo@gmail.com",
+    "phone": "707-742-3733"
   },
   {
     "organization": "St. Anthony Foundation",
