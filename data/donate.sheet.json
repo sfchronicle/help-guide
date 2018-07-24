@@ -20,6 +20,16 @@
     "phone": "510-252-0910, ext. 804"
   },
   {
+    "organization": "Back on My Feet",
+    "location": "SF",
+    "description": "Back on My Feet is a national organization with chapters across the country including San Francisco. This organization works to combat homelessness through the power of running, community support and essential employment and housing resources.",
+    "website": "https://sanfrancisco.backonmyfeet.org/ ",
+    "items_needed": "Lightly used clothing, brand new running shoes, socks and undergarments for men and women.",
+    "address": "169 11th St., San Francisco",
+    "email": "info@backonmyfeet.org (attention to San Francisco)",
+    "phone": "215-772-1080 "
+  },
+  {
     "organization": "Bay Area Rescue Mission",
     "location": "EB",
     "description": "Bay Area Rescue Mission offers a clean, safe place to sleep as well as a yearlong program to help adults get back into a functional, productive life.",
@@ -321,6 +331,16 @@
     "phone": "415-321-2612"
   },
   {
+    "organization": "Home First",
+    "location": "SB",
+    "description": "HomeFirst is a leading provider of services, shelter, and housing opportunities to the homeless and those at risk of homelessness in Santa Clara County. They serve more than 4,000 adults, veterans, families, and youth each year at seven locations including the Boccardo Reception Center, which is the county’s largest homeless services center.",
+    "website": "http://www.homefirstscc.org",
+    "items_needed": "Travel size items: Shaving cream, toothpaste, deodorant, hand sanitizer, soap, shampoo; standard items: lip balm, baby diapers, new socks, elastic waist pants, all sizes/genders, adult pull-on diapers/incontinent suplies, wet wipes, razors (disposable), toothbrushes, laundry soap (powder or powder pods), bath towels, twin sheets, and washable twin blankets, new white t-shirts*, new underwear/undergarments*\n*For men & women in all sizes",
+    "address": "507 Valley Way",
+    "email": "info@homefirstscc.org",
+    "phone": "408-539-2100"
+  },
+  {
     "organization": "Homeless Action Center",
     "location": "EB",
     "description": "Homeless Action Center provides free public benefits advocacy to low-income people in Alameda County.",
@@ -531,6 +551,16 @@
     "phone": "510-574-2250"
   },
   {
+    "organization": "Samaritan House ",
+    "location": "SB",
+    "description": "Samaritan House is the largest truck-to-table food distribution agency in San Mateo County. Other free services include shelter and housing assistance; free medical and dental clinics; free clothing, shoes, backpacks with school supplies for children; personalized case management and much more. ",
+    "website": "http://samaritanhousesanmateo.org/ ",
+    "items_needed": "Good quality new and nearly new children’s clothing and shoes, family sized household cleaning and hygiene supplies. Seasonal needs include backpacks and Payless Shoe gift cards ($30 for teens, $20 for preschool and elementary aged children) in July for the Back to School Program; new Halloween costumes for kids in October; holiday food, new toys, new coats and gift cards for children and teens in December. ",
+    "address": "4031 Pacific Blvd., San Mateo",
+    "email": "info@samaritanhousesanmateo.org ",
+    "phone": "650-341-4081"
+  },
+  {
     "organization": "San Francisco Community Clinic Consortium",
     "location": "SF",
     "description": "San Francisco Community Clinic Consortium travels in a medical van to sites throughout San Francisco with a dedicated SOS team of doctors, nurses, outreach workers and volunteers who create “clinics without walls” at soup kitchens, on city streets, under freeway overpasses, and in parks. The Vet SOS (https://www.sfccc.org/veterinary-street-outreach-services-vetsos/) program provides free veterinary care to the companion animals of homeless San Franciscans and links their human guardians with health care services. ",
@@ -718,6 +748,16 @@
     "items_needed": "Plus-size professional clothing for men and women (women: 16+, men: 18+), men's dress shoes, women's flats size 9w+",
     "address": "570 14th St., Oakland",
     "phone": "510-463-4100, ext. 221"
+  },
+  {
+    "organization": "Winter Nights Shelter",
+    "location": "EB",
+    "description": "Winter Nights Rotating Homeless Family Shelter in Contra Costa County, California provides homeless families with children a clean, safe, and warm shelter with bedding at night and a daytime services center.\nFaith congregations provide space, meals, and volunteers on a two-week rotating basis. Professional staff supervise the shelter at all times.",
+    "website": "https://cccwinternights.org",
+    "items_needed": "Pillows, pillowcases, sheets, packing tape, duct tape, disinfectant spray, disinfectant wipes, wardrobe boxes and tents. For the most updated list of items needed, please visit: amazon.com/gp/registry/giftlist/3RY94SX0MT4C5?ref_=cm_go_nav_recip_gl&pldnSite=1. \n",
+    "address": "1543 Sunnyvale Ave., Walnut Creek",
+    "email": "info@cccwinternights.org",
+    "phone": "925-933-6030"
   },
   {
     "organization": "Youth Spirit Artworks",

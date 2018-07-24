@@ -40,6 +40,16 @@
     "phone": "415-381-7173"
   },
   {
+    "organization": "Back on My Feet",
+    "location": "SF",
+    "description": "Back on My Feet is a national organization with chapters across the country including San Francisco. This organization works to combat homelessness through the power of running, community support and essential employment and housing resources.",
+    "website": "https://sanfrancisco.backonmyfeet.org/ ",
+    "volunteer": "Run between one and four miles with members or help out at community events. Follow this link for volunteer information, https://sanfrancisco.backonmyfeet.org/node/3491.",
+    "address": "169 11th St., San Francisco",
+    "email": "info@backonmyfeet.org (attention to San Francisco)",
+    "phone": "215-772-1080 "
+  },
+  {
     "organization": "Bay Area Rescue Mission",
     "location": "EB",
     "description": "Bay Area Rescue Mission offers a clean, safe place to sleep as well as a yearlong program to help adults get back into a functional, productive life.",
@@ -410,6 +420,16 @@
     "phone": "415-321-2612"
   },
   {
+    "organization": "The Healing WELL",
+    "location": "SF",
+    "description": "The Healing WELL is a holistic healing and wellness center in the heart of the Tenderloin neighborhood.  They offer free classes such as yoga, meditation, 12-steps for healing, art, poetry and improv theater.",
+    "website": "http://www.healingwellsf.org",
+    "volunteer": "Facilitate wellness groups and classes both on-site and in the community, prepare and serve meals, and offer hospitality.",
+    "address": "476 Eddy St., San Francisco",
+    "email": "support@healingwellsf.org",
+    "phone": "415-500-2099"
+  },
+  {
     "organization": "HealthRIGHT 360",
     "location": "SF",
     "description": "HealthRIGHT 360 provides medical, mental and substance abuse treatment.",
@@ -418,6 +438,16 @@
     "address": "N/A",
     "email": "volunteer@healthright360.org",
     "phone": "415-762-3700"
+  },
+  {
+    "organization": "Home First",
+    "location": "SB",
+    "description": "HomeFirst is a leading provider of services, shelter, and housing opportunities to the homeless and those at risk of homelessness in Santa Clara County. They serve more than 4,000 adults, veterans, families, and youth each year at seven locations including the Boccardo Reception Center, which is the county’s largest homeless services center.",
+    "website": "http://www.homefirstscc.org",
+    "volunteer": "Individuals can donate their time at one of the local shelters, family sites, or kitchens, or Home First help you complete a service project at your site.",
+    "address": "507 Valley Way",
+    "email": "info@homefirstscc.org",
+    "phone": "408-539-2100"
   },
   {
     "organization": "Homeless Action Center",
@@ -590,6 +620,16 @@
     "phone": "408-800-7265"
   },
   {
+    "organization": "PCR",
+    "location": "SF",
+    "description": "PRC helps low income, no income, disabled, and homeless adults in San Francisco overcome health-related challenges to stable housing by addressing substance use, mental illness, HIV/AIDS; linking them to benefit and employment income; building independent living capacity through transitional housing.",
+    "website": "http://www.prcsf.org/volunteer",
+    "volunteer": "Fundraising/marketing, board/committee service, administrative projects, employment readiness training and workshop support, and residential building maintenance.",
+    "address": "785 Market St., 9th Fl., San Francisco",
+    "email": "development@prcsf.org",
+    "phone": "415-777-0333"
+  },
+  {
     "organization": "Project Homeless Connect",
     "location": "SF",
     "description": "PHC connects people experiencing and at-risk of homelessness to services by hosting large-scale events five times a year. Between events, they offer ongoing assistance through their Every Day Connect program. Services include medical, dental and vision care, as well as employment counseling, housing assistance and legal aid.",
@@ -668,6 +708,16 @@
     "address": "18 Sunset Drive, Kensington, CA",
     "email": " info@safetimehost.org",
     "phone": "510-524-5525"
+  },
+  {
+    "organization": "Samaritan House ",
+    "location": "SB",
+    "description": "Samaritan House is the largest truck-to-table food distribution agency in San Mateo County. Other free services include shelter and housing assistance; free medical and dental clinics; free clothing, shoes, backpacks with school supplies for children; personalized case management and much more. ",
+    "website": "http://samaritanhousesanmateo.org/ ",
+    "volunteer": "Help in the kitchen, pantry, dining room, kids closet, medical and dental clinics or work with clients directly on money management.",
+    "address": "4031 Pacific Blvd., San Mateo",
+    "email": "info@samaritanhousesanmateo.org ",
+    "phone": "650-341-4081"
   },
   {
     "organization": "SF-Marin Food Bank",
@@ -858,6 +908,16 @@
     "address": "570 14th Street, Suite 5, Oakland",
     "email": "bmercado@wardrobe.org",
     "phone": "510-463-4100, ext. 216"
+  },
+  {
+    "organization": "Winter Nights Shelter",
+    "location": "EB",
+    "description": "Winter Nights Rotating Homeless Family Shelter in Contra Costa County, California provides homeless families with children a clean, safe, and warm shelter with bedding at night and a daytime services center.\r\nFaith congregations provide space, meals, and volunteers on a two-week rotating basis. Professional staff supervise the shelter at all times.",
+    "website": "https://cccwinternights.org",
+    "volunteer": "Congregation volunteers provide meals, homework help, read with children, go on outings, make crafts, play games or other activities.",
+    "address": "1543 Sunnyvale Ave., Walnut Creek",
+    "email": "info@cccwinternights.org",
+    "phone": "925-933-6030"
   },
   {
     "organization": "Youth Spirit Artworks",
