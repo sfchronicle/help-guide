@@ -333,10 +333,10 @@
   {
     "organization": "HomeFirst",
     "location": "SB",
-    "description": "HomeFirst is a leading provider of services, shelter, and housing opportunities to the homeless and those at risk of homelessness in Santa Clara County. They serve more than 4,000 adults, veterans, families, and youth each year at seven locations including the Boccardo Reception Center, which is the county’s largest homeless services center.",
+    "description": "HomeFirst is a leading provider of services, shelter, and housing opportunities to the homeless and those at risk of homelessness in Santa Clara County. They serve more than 5,000 adults, veterans, families, and youth each year at seven locations including the Boccardo Reception Center, which is the county’s largest homeless services center.",
     "website": "http://www.homefirstscc.org",
     "items_needed": "Travel size items: Shaving cream, toothpaste, deodorant, hand sanitizer, soap, shampoo; standard items: lip balm, baby diapers, new socks, elastic waist pants, all sizes/genders, adult pull-on diapers/incontinent suplies, wet wipes, razors (disposable), toothbrushes, laundry soap (powder or powder pods), bath towels, twin sheets, and washable twin blankets, new white t-shirts*, new underwear/undergarments*\n*For men & women in all sizes",
-    "address": "507 Valley Way",
+    "address": "507 Valley Way, Milpitas",
     "email": "info@homefirstscc.org",
     "phone": "408-539-2100"
   },
@@ -379,6 +379,16 @@
     "address": "1663 Mission St., Ste. 225, San Francisco",
     "email": "donations@lacasa.org",
     "phone": "415-503-0500"
+  },
+  {
+    "organization": "Lava Mae ",
+    "location": "SF",
+    "description": "Lava Mae brings critical services to the streets in the form of shower trailers– delivered with an unexpected level of care we call Radical Hospitality™ – to rekindle dignity and hope for people experiencing homelessness.",
+    "website": "http://www.lavamae.org",
+    "items_needed": "Razors and other hygiene items are always needed.  Additional items needed can be found at wishlist at gooddler.com/Wishlist/10214. ",
+    "address": "1015 Fillmore St., San Francisco",
+    "email": "Tracy@lavamae.org",
+    "phone": "415-660-7425"
   },
   {
     "organization": "La Voz Latina",

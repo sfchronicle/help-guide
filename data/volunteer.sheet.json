@@ -442,10 +442,10 @@
   {
     "organization": "HomeFirst",
     "location": "SB",
-    "description": "HomeFirst is a leading provider of services, shelter, and housing opportunities to the homeless and those at risk of homelessness in Santa Clara County. They serve more than 4,000 adults, veterans, families, and youth each year at seven locations including the Boccardo Reception Center, which is the county’s largest homeless services center.",
+    "description": "HomeFirst is a leading provider of services, shelter, and housing opportunities to the homeless and those at risk of homelessness in Santa Clara County. They serve more than 5,000 adults, veterans, families, and youth each year at seven locations including the Boccardo Reception Center, which is the county’s largest homeless services center.",
     "website": "http://www.homefirstscc.org",
     "volunteer": "Individuals can donate their time at one of the local shelters, family sites, or kitchens, or HomeFirst can also help you complete a service project at your site.",
-    "address": "507 Valley Way",
+    "address": "507 Valley Way, Milpitas",
     "email": "info@homefirstscc.org",
     "phone": "408-539-2100"
   },
@@ -498,6 +498,16 @@
     "address": "1663 Mission St., Ste. 225, San Francisco",
     "email": "volunteer@lacasa.org",
     "phone": "415-503-0500"
+  },
+  {
+    "organization": "Lava Mae ",
+    "location": "SF",
+    "description": "Lava Mae brings critical services to the streets in the form of shower trailers– delivered with an unexpected level of care we call Radical Hospitality™ – to rekindle dignity and hope for people experiencing homelessness.",
+    "website": "http://www.lavamae.org",
+    "volunteer": "Along with the Front Line Staff, volunteers will help provide guests with a warm shower, a plush towel and some relaxing music.  Please wear layers and shoes that you don't mind getting wet.",
+    "address": "1015 Fillmore St., San Francisco",
+    "email": "Tracy@lavamae.org",
+    "phone": "415-660-7425"
   },
   {
     "organization": "La Voz Latina",
