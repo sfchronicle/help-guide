@@ -15,5 +15,11 @@
   "sheets": ["1lBoedMZwZcWtxlZ5kpVnQ2tP9Thn5g3VYyw0v5EqIsU"],
   "production": false,
   "embedded": false,
-  "paywall":"meter"
+  "paywall":"meter",
+  "PROJECT": {
+    "SUBFOLDER": "sf-homeless",
+    "SLUG": "how-to-help",
+    "PROJECT_TYPE": "node",
+    "MARKET_KEY": "SFC",
+  },
 }

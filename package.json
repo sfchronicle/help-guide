@@ -17,7 +17,8 @@
     "component-responsive-frame": "^1.1.3",
     "csv": "^0.4.2",
     "exorcist": "^0.4.0",
-    "google-spreadsheets": "^0.5.1",
+    "google-spreadsheets": "^2.0.0",
+    "googleapis": "^47.0.0",
     "grunt": "^1.0.3",
     "grunt-contrib-connect": "^1.0.0",
     "grunt-contrib-watch": "^1.1.0",
@@ -40,5 +41,10 @@
       "./tasks/lib/browserify-less",
       "./tasks/lib/browserify-text"
     ]
+  },
+  "scripts": {
+    "deploy:git": "func() { tasks/pre-build.sh \"$1\" && grunt static && tasks/post-build.sh; }; func",
+    "auth": "tasks/googleauth.js",
+    "sheets": "tasks/google-sheets.js"
   }
 }
