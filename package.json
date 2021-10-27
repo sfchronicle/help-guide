@@ -46,6 +46,7 @@
   "scripts": {
     "deploy:git": "func() { tasks/pre-build.sh \"$1\" && grunt static && tasks/post-build.sh; }; func",
     "auth": "tasks/googleauth.js",
-    "sheets": "tasks/google-sheets.js"
+    "sheets": "tasks/google-sheets.js",
+    "docs": "ls"
   }
 }
