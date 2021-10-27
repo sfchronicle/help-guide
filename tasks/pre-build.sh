@@ -11,10 +11,6 @@ if [ ${#sheets} -gt 2 ]; then
 	npm run sheets
 fi
 
-if [ ${#docs} -gt 2 ]; then
-	grunt docs
-fi
-
 # Update the config based on the deploy type
 # fulljson=$(node -pe 'JSON.parse(process.argv[1])' "$(cat project.json)")
 # node -p "JSON.stringify({...$fulljson, \"deployDestination\": \"$1\"}, null, 2)" > project.json
